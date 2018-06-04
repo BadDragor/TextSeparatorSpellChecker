@@ -1,0 +1,10 @@
+C:\Arh\Proj\TextSeparator\TextSeparator\bin\Debug\TextSeparator.exe.config
+C:\Arh\Proj\TextSeparator\TextSeparator\obj\Debug\TextSeparator.Form1.resources
+C:\Arh\Proj\TextSeparator\TextSeparator\obj\Debug\TextSeparator.Resources.resources
+C:\Arh\Proj\TextSeparator\TextSeparator\obj\Debug\TextSeparator.vbproj.GenerateResource.Cache
+C:\Arh\Proj\TextSeparator\TextSeparator\bin\Debug\TextSeparator.exe
+C:\Arh\Proj\TextSeparator\TextSeparator\bin\Debug\TextSeparator.pdb
+C:\Arh\Proj\TextSeparator\TextSeparator\bin\Debug\TextSeparator.xml
+C:\Arh\Proj\TextSeparator\TextSeparator\obj\Debug\TextSeparator.exe
+C:\Arh\Proj\TextSeparator\TextSeparator\obj\Debug\TextSeparator.xml
+C:\Arh\Proj\TextSeparator\TextSeparator\obj\Debug\TextSeparator.pdb
