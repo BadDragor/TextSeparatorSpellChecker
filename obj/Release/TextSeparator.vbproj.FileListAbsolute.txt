@@ -2,9 +2,9 @@ C:\Arh\Proj\TextSeparator\TextSeparator\bin\Release\TextSeparator.exe.config
 C:\Arh\Proj\TextSeparator\TextSeparator\bin\Release\TextSeparator.exe
 C:\Arh\Proj\TextSeparator\TextSeparator\bin\Release\TextSeparator.pdb
 C:\Arh\Proj\TextSeparator\TextSeparator\bin\Release\TextSeparator.xml
-C:\Arh\Proj\TextSeparator\TextSeparator\obj\Release\TextSeparator.Form1.resources
 C:\Arh\Proj\TextSeparator\TextSeparator\obj\Release\TextSeparator.Resources.resources
 C:\Arh\Proj\TextSeparator\TextSeparator\obj\Release\TextSeparator.vbproj.GenerateResource.Cache
 C:\Arh\Proj\TextSeparator\TextSeparator\obj\Release\TextSeparator.exe
 C:\Arh\Proj\TextSeparator\TextSeparator\obj\Release\TextSeparator.xml
 C:\Arh\Proj\TextSeparator\TextSeparator\obj\Release\TextSeparator.pdb
+C:\Arh\Proj\TextSeparator\TextSeparator\obj\Release\TextSeparator.TextSeparatorForm.resources

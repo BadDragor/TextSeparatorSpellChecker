@@ -1,4 +1,4 @@
-﻿Public Class Form1
+﻿Public Class TextSeparatorForm
     Dim i As Integer = 0
     Dim intRows As Integer = 0
     Dim strRows As String = "00"
@@ -12,7 +12,7 @@
 
     Private objTemp0, objTemp1, objTemp2, objTemp3, objTemp4, objTemp5, objTemp6, objTemp7, objTemp8, objTemp9 As Object
 
-    
+
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles Me.Load
         '#If DEBUG Then
@@ -21,8 +21,8 @@
 
         '#End If
 
-       
 
+        CheckForTheNewestVersionOfTheProgramToolStripMenuItem.Text = CheckForTheNewestVersionOfTheProgramToolStripMenuItem.Text & " (current " & VersionToolStripMenuItem.Text.ToLower & ")"
 
     End Sub
 
@@ -171,7 +171,7 @@
 
     End Sub
 
-    Private Sub bttOpen_Click(sender As Object, e As EventArgs) Handles bttOpen.Click
+    Private Sub bttOpen_Click(sender As Object, e As EventArgs) Handles bttOpenStory.Click
         joined_bttOpen_Click(txtContentPath.Text)
     End Sub
 
@@ -297,7 +297,7 @@
         objReader.Close()
 
         'Do
-        
+
         'Try
         '    objGrammarLine = objReader2.ReadLine()
         '    'An unhandled exception of type 'System.ObjectDisposedException' occurred in mscorlib.dll Additional information: Cannot read from a closed TextReader.   'Solution: Open it for every line of content.
@@ -392,12 +392,12 @@
 
     End Sub
 
-    Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
+    Private Sub Button2_Click(sender As Object, e As EventArgs) Handles bttOpenGrammar.Click
         joined_bttOpen_Click(txtGrammarPath.Text)
 
     End Sub
 
-  
+
 
     Private Sub txtContentPath_MouseDoubleClick(sender As Object, e As MouseEventArgs) Handles txtContentPath.MouseDoubleClick
         Dim OpenFileDialog As New OpenFileDialog
@@ -453,5 +453,9 @@
 
     End Sub
 
-  
+
+    Private Sub ReportABugImprovementToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles ReportABugImprovementToolStripMenuItem.Click
+        System.Diagnostics.Process.Start("https://github.com/BadDragor/TextSeparatorSpellChecker/issues")
+
+    End Sub
 End Class
