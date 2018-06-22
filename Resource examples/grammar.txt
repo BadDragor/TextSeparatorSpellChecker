@@ -1,0 +1,1889 @@
+[comment] Wrongly written words
+[allcase]death silence
+[explain]dead silence
+[allcase]rose her voice
+[allcase]rose his voice
+[allcase]rose their voice
+[explain]raised
+[allcase]grimase
+[explain]grimace
+[allcase]Apandege
+[explain]appendage
+[allcase]igh!
+[explain]ugh!
+[allcase]grose
+[explain]gross
+[allcase]thich
+[explain]thick
+[allcase]cartuffle
+[explain]kerfuffle
+[allcase]Toosh
+[explain]tush
+[allcase]full on confrontation
+[explain]full on confrontation
+[allcase]blunt of the
+[explain]brunt of the
+[allcase]deffy
+[explain]defy
+[allcase]on regular basis
+[explain]on a regular basis
+[allcase]khm
+[explain]cough, err, erm, um, hmm, ahem, cleared their throat
+[allcase] uzz
+[explain] ooze
+[allcase]Endangeres
+[explain]endangers
+[allcase]preventative measures
+[explain]preventive measures
+[allcase]Violater
+[explain]violator
+[allcase]wide spread
+[explain]wide-spread
+[allcase]puppile
+[explain]pupil
+[allcase]in a bad time
+[explain]at a bad time
+[allcase]gem hunting
+[explain]gem-hunting
+[allcase]first hoof
+[explain]first-hoof
+[allcase]short haired
+[explain]short-haired
+[allcase] in my reach
+[explain] within my reach
+[allcase]call of the nature
+[explain]call of nature
+[allcase]old fashioned
+[explain]old-fashioned
+[allcase]Saddleback
+[explain]saddlebag
+[allcase]ear drum
+[explain] it should be eardrum
+[allcase]ear drum
+[explain] it should be eardrum
+[allcase]schoolteacher
+[explain] it should be school teacher
+[allcase]raised up
+[explain]up is not necessary
+[allcase]rose up
+[explain]up is not necessary
+[allcase]rise up
+[explain]up is not necessary
+[allcase]realise
+[explain]realize
+[allcase]princesshood
+[explain]princess-hood
+[allcase]squeeks
+[explain]squeaks
+[allcase]tieing
+[explain]tying
+[allcase]vaporised 
+[explain]vaporized
+[allcase]curles
+[explain]curls
+[allcase]refered 
+[explain]referred
+[allcase]auu
+[explain]aau
+[allcase]rutine
+[explain]routines
+[allcase]easyer
+[explain]easier
+[allcase]murmored
+[explain]murmured
+[allcase]dispair
+[explain]despair
+[allcase]agressor
+[explain]aggressor
+[allcase] controll
+[explain]control
+[allcase]their believes
+[explain]their beliefs
+[allcase]afirm 
+[explain]affirm
+[allcase]Challange
+[explain]challenge
+[allcase]consept 
+[explain]concept 
+[allcase]Bordom
+[explain]boredom
+[allcase]Presuposed
+[explain]presupposed
+[allcase]oposite 
+[explain]opposite 
+[allcase]immanent
+[explain]imminent
+[allcase]eminent
+[explain]imminent
+[allcase]ever darker
+[explain]ever-darker
+[allcase]grownup
+[explain]grown-up http://www.quickanddirtytips.com/education/grammar/when-does-grown-need-hyphen
+[allcase]burned in my brain
+[explain]burned into my brain
+[allcase]dog house
+[explain]doghouse
+[allcase]clumber
+[explain]clamber
+[allcase]bable
+[explain]babble
+[allcase]some of them
+[explain]a few of them
+[allcase]on all four.
+[explain]on all fours
+[allcase]hi-hi
+[allcase]he-he
+[explain]hee-hee [] giggle: tee hee hee
+[comment]Grammar issues
+
+, The 
+[explain] there should be lower-case after the comma
+[allcase]reshelve
+[explain] re-shelve is the correct word
+[abc] If
+[explain] it should be lower case, not upper case after a comma.
+, If
+[explain] it should be lower case, not upper case after a comma.
+[allcase]magical
+[explain] if it’s mystical use magical, else use magic
+[allcase]must had
+[allcase]will had
+[allcase]should had
+[explain] use have instead of had
+[allcase]an overkill
+[explain]remove an
+[allcase]the last year
+[explain]remove ‘the’
+[allcase]since morning
+[explain]since the morning
+[allcase]safe for the approach
+[explain]lose the
+
+Then 
+[explain] It should be Then, (with comma after)
+
+[allcase], than 
+[explain]There usually isn’t a comma before than.
+
+[abc] despite
+[explain]There should probably be a comma before despite
+
+We, 
+I, 
+[explain] There probably shouldn’t be a comma there.
+
+
+
+disappointed at
+[explain] use in or with
+
+, since
+[explain] don’t use comma here
+
+Instead I 
+[explain]Instead, I
+
+[allcase]None of them were
+[explain]was - formal writing; were - speaking english
+[allcase]None of them was
+[explain]was - formal writing; were - speaking english
+[allcase]nonbreakable
+[explain]unbreakable
+[allcase]forcefield
+[explain]force field
+[allcase]eachother
+[explain]each other
+[allcase]of course
+[explain]off course
+[allcase]regular bases
+[explain]regular basis
+[allcase]jerkingly
+[explain]jerkily
+
+
+[comment] Easily mixed up words. Check if you used the correct one.
+[allcase]sat on my flank
+[explain]sat on my plot
+[allcase]reoccurring
+[explain] Repeated but not periodic
+[allcase]recurring
+[explain] Periodically repeats itself.
+[allcase]weary of
+[explain]wary = cautious; weary = tired
+
+[abc] despite
+[explain] There should probably be a comma before despite.
+
+[allcase]discrete
+[explain] discrete: Separate, distinct, or consisting of individual parts. Constituting a separate entity or part.  []discreet: Cautious, careful, not drawing attention. Marked by prudence or modesty and wise self-restraint.
+[allcase]discreet
+[explain] Cautious, careful, not drawing attention
+[allcase]the point of no return
+[explain]the point of no-return
+
+[comment]American (default) vs Britain
+[allcase]afterwards
+[explain]afterward <- American english
+[allcase]equalise
+[explain]equalize 
+[allcase]fulfil 
+[explain]fulfill
+[comment]Check if correct
+[allcase]peaked
+[explain]peeked if verb
+As I
+[explain]When I, While I
+[allcase]looked up to 
+[explain]looked up at
+[allcase]looked back to
+[explain]looked back at
+[allcase]the school
+[explain]school
+[allcase]with a gaping mouth
+[explain], mouth agape
+[allcase]raised her head
+[explain]lifted her head
+[allcase]raised my head
+[explain]lifted my head
+[allcase]raised his head
+[explain]lifted his head
+[allcase]off of
+[explain]off
+[allcase]Approached me
+[explain]approached
+[allcase]Approaching me
+[explain]approaching
+[allcase]Approaches me
+[explain]approaches
+[allcase]Approach me
+[explain]approach
+[allcase]moved backward
+[explain]backed
+[allcase]dawned upon
+[explain]dawned on
+[allcase]lowered her head
+[explain]bowed her head
+[allcase]lowered my head
+[explain]bowed my head
+[allcase]lowered his head
+[explain]bowed his head
+[allcase]several moments
+[explain]some time
+[allcase]lifted up
+[explain]lift
+[allcase]dawned upon
+[explain]dawned on
+[allcase]Opened mouth
+[explain]open mouth
+[allcase]partially my fault
+[explain]partly my fault
+[allcase]bored of
+[explain]bored with
+[allcase]all of the
+[explain]all the
+[allcase]bored of
+[explain]bored with
+aren't I
+[explain]Am I not
+[allcase]different than
+[explain]Correct in dialogue (spoken language), but outside of dialogue it should be different from.
+[allcase]muscles tensed up.
+[explain]muscles tensed.
+[comment] Basic Polishing
+[allcase]that
+[explain]If a sentence makes sense without the word “that”, delete that instance of the word “that”.
+[allcase]just
+[explain]If not in dialogue, delete it.
+[allcase]then
+[explain]If showing a sequence of events, either remove “then” or try using “and” instead of “then.” Using “then” frequently sounds repetitive and even juvenile.
+[allcase]totally
+[explain]Doesn't add useful information to a sentence. Use an adverb relevant to the situation instead.
+[allcase]completely
+[explain]Doesn't add useful information to a sentence. Use an adverb relevant to the situation instead.
+[allcase] absolutely 
+[explain]Doesn't add useful information to a sentence. Use an adverb relevant to the situation instead.
+[allcase]literally
+[explain]Doesn't add useful information to a sentence. Use an adverb relevant to the situation instead.
+[allcase]Definitely
+[explain]Do not use outside of dialogue. If the sentence makes sense without it, remove it.
+[allcase]certainly
+[explain]Do not use outside of dialogue. If the sentence makes sense without it, remove it.
+[allcase]probably
+[explain]Do not use outside of dialogue. If the sentence makes sense without it, remove it.
+[allcase]actually
+[explain]Do not use outside of dialogue. If the sentence makes sense without it, remove it.
+[allcase]basically
+[explain]Do not use outside of dialogue. If the sentence makes sense without it, remove it.
+[allcase]virtually
+[explain]Do not use outside of dialogue. If the sentence makes sense without it, remove it.
+[allcase]start
+[explain]Unnecessary, unless an interruption to the action soon occurs.
+[allcase]begin
+[explain]Unnecessary, unless an interruption to the action soon occurs.
+[allcase]began
+[explain]Unnecessary, unless an interruption to the action soon occurs.
+[allcase]begun
+[explain]Unnecessary, unless an interruption to the action soon occurs.
+[allcase]rather
+[explain]Do not use to describe other things in narration. “Rather dull” is unnecessary. “Dull” will suffice.
+[allcase]quite
+[explain]Do not use to describe other things in narration. “Quite dull” is unnecessary. “Dull” will suffice.
+[allcase]somewhat
+[explain]Do not use to describe other things in narration. “Somewhat dull” is unnecessary. “Dull” will suffice.
+[allcase]somehow
+[explain]Do not use to describe other things in narration. “Somehow dull” is unnecessary. “Dull” will suffice.
+[allcase]down
+[explain]Usually, this word is unnecessary and can be removed.
+[allcase]up
+[explain]Usually, this word is unnecessary and can be removed.
+
+[comment] Advanced Polishing
+
+[allcase]about
+[explain]Try not to use this term when discussing quantities. Use “approximately” or a range instead.
+[allcase]Absolutely essential
+[explain]Redundant phrase. You don’t need absolutely.
+[allcase]Absolutely necessary
+[explain]Redundant phrase. You don’t need absolutely.
+[allcase]Accordingly
+[explain]Use simpler replacement, such as so. Ex: Accordingly, be careful next time. Better: So, be careful next time.
+[allcase]Accuracy
+[explain]Use the verb or adjective form for more powerful sentences. Ex: The accuracy of his report wasn’t good. Better: His report wasn’t accurate.
+[allcase]Actual facts
+[explain]Redundant phrase. You don’t need actual.
+[allcase]Admit to
+[explain]Flabby expression. Drop to.
+[allcase]Advance forward
+[explain]Redundant phrase. You don’t need forward.
+[allcase]Advance planning
+[explain]Redundant phrase. You don’t need advance.
+[allcase]Advance warning
+[explain]Redundant phrase. You don’t need advance.
+[allcase]Add an additional
+[explain]Redundant phrase. You don’t need an additional.
+[allcase]Add up
+[explain]Redundant phrase. You don’t need up.
+[allcase]Added bonus
+[explain]Redundant phrase. You don’t need added.
+[allcase]Almost
+[explain]Use approximations such as this sparingly. Specific terms are better. Ex: It was almost time for class. Better: Class started in one minute.
+[allcase]All of
+[explain]Flabby expression. Drop of.
+[allcase]All time record
+[explain]Redundant phrase. You don’t need all time.
+[allcase]All things being equal
+[explain]Empty Phrase. Don’t use it. Ex: All things being equal, we should arrive tonight. Better: If all goes well, we should arrive tonight.
+[allcase]Alternative choice
+[explain]Redundant phrase. You don’t need choice.
+[allcase]All throughout
+[explain]Redundant phrase. You don’t need all.
+[allcase]Analysis
+[explain]Use the verb or adjective form for more powerful sentences. Ex: Give an analysis of the data and then create a summary. Better: Analyze the data and then summarize it.
+[allcase]And etc
+[explain]Redundant phrase. You don’t need and.
+[allcase]Anonymous stranger
+[explain]Redundant phrase. You don’t need anonymous.
+[allcase]Appearance
+[explain]Use the verb or adjective form for more powerful sentences. Ex: His appearance caused cheers from the crowd. Better: He appeared and the crowd cheered.
+[allcase]Area
+[explain]Vague Noun. Cut or use more specific word.
+[allcase]Are after
+[explain]Clunky verb construction. Use follow, or seek, or desire, or want.
+[allcase]is after
+[explain]Clunky verb construction. Use follow, or seek, or desire, or want. 
+[allcase]Armed gunman
+[explain]Redundant phrase. You don’t need armed.
+[allcase]As a matter of fact
+[explain]Empty Phrase. Don’t use it outside dialogue. Use Sparingly inside dialogue.
+[allcase]As being
+[explain]Flabby expression. You don’t need being.
+[allcase]Ascend up 
+[explain]Redundant phrase. You don’t need up.
+[allcase]As far as I’m concerned
+[explain]Empty Phrase. Don’t use it outside dialogue. Use Sparingly inside dialogue.
+[allcase]Ask the question
+[explain]Redundant phrase. You don’t need the question.
+[allcase]Aspect
+[explain]Vague noun. Cut or use more specific word.
+[allcase]Assemble together
+[explain]Redundant phrase. You don’t need together.
+[allcase]As to whether
+[explain]Flabby expression. You don’t need as to.
+[allcase]As yet
+[explain]Flabby expression. You don’t need as.
+[allcase]At all times
+[explain]Empty phrase. Don’t use, or fix.
+[allcase]Attempt
+[explain]Use simpler replacement, such as try. Use the verb or adjective form for more powerful sentences.
+[allcase]At the end of the day
+[explain]Empty Phrases. Don’t use it outside dialogue. Use Sparingly inside dialogue.
+[allcase]At the present time
+[explain]Empty Phrase. Don’t use or fix.
+[allcase]At this point in time
+[explain]Empty Phrase. Don’t use or fix.
+[allcase]Bald-headed
+[explain]Redundant phrase. You don’t need headed.
+[allcase]Basic necessities
+[explain]Redundant phrase. You don’t need basic.
+[allcase]Belief
+[explain]Use the verb or adjective form for more powerful sentences.
+[allcase]Big
+[explain]Weak adjective. Replace with something more precise. Ex: He was a big man. Better: He was six feet tall and 250 pounds.
+[allcase]Blend together
+[explain]Redundant phrase. You don’t need together.
+[allcase]Bouquet of flowers
+[explain]Redundant phrase. You don’t need of flowers.
+[allcase]Brief moment
+[explain]Redundant phrase. You don’t need brief.
+[allcase]Brilliance
+[explain]Use the verb or adjective form for more powerful sentences.
+[allcase]Cameo appearance
+[explain]Redundant phrase. You don’t need appearance.
+[allcase]Care about
+[explain]Flabby verb construction. Use value or like to save a word.
+[allcase]Careful scrutiny
+[explain]Redundant phrase. You don’t need careful.
+[allcase]Carelessness
+[explain]Use the verb or adjective form for more powerful sentences.
+[allcase]Catch on
+[explain]Flabby verb construction. Use resonate or spread. Ex: Hopefully the message will catch on. Better: Hopefully the message will spread.
+[allcase]Caused a drop in
+[explain]Use the verb or adjective form for more powerful sentences. Ex: Pay cuts caused a drop in morale within our company. Better: Pay cuts demoralized our company.
+[allcase]Caused considerable confusion
+[explain]use something more powerful, such as confused or baffled.
+[allcase]Cease and desist
+[explain]Redundant phrase. You don’t need and desist.
+[allcase]Close proximity
+[explain]Redundant phrase. You don’t need close. 
+[allcase]Closed fist
+[explain]Redundant phrase. You don’t need closed.
+[allcase]Commute back and forth
+[explain]Redundant phrase. You don’t need back and forth
+[allcase]Comparison
+[explain]Use the verb or adjective form for more powerful sentences.
+[allcase]Completely destroy
+[explain]Redundant phrase. You don’t need completely.
+[allcase]Completely destroyed
+[explain]Redundant phrase. You don’t need completely.
+[allcase]Completely eliminate
+[explain]Redundant phrase. You don’t need completely.
+[allcase]Completely eliminated
+[explain]Redundant phrase. You don’t need completely.
+[allcase]Completely engulfed
+[explain]Redundant phrase. You don’t need completely.
+[allcase]Completely filled
+[explain]Redundant phrase. You don’t need completely.
+[allcase]Connect together
+[explain]Redundant phrase. You don’t need together.
+[allcase]Could possibly
+[explain]Redundant phrase. You don’t need possibly.
+[allcase]Crisis situation
+[explain]Redundant phrase. You don’t need situation.
+[allcase]Current trend
+[explain]Redundant phrase. You don’t need current.
+[allcase]Cut down on
+[explain]Flabby Phrasal Verb. Use reduce or limit.
+[allcase]Decrease in strength
+[explain]Use the verb or adjective form for more powerful sentences.
+[allcase]Definition
+[explain]Use the verb or adjective form for more powerful sentences.
+[allcase]Depreciate in value
+[explain]Redundant phrase. You don’t need in value.
+[allcase]Descend down
+[explain]Redundant phrase. You don’t need down.
+[allcase]Description
+[explain]Use the verb or adjective form for more powerful sentences.
+[allcase]Desirable benefit
+[explain]Redundant phrase. You don’t need desirable.
+[allcase]Did not have much confidence in
+[explain]Avoid using negative constructions if possible. Readers don’t like when you tell them what something is not. They like when you tell them what something is. Use distrusted or doubted.
+[allcase]Did not pay attention to
+[explain]Avoid using negative constructions if possible. Readers don’t like when you tell them what something is not. They like when you tell them what something is. Use ignored.
+[allcase]Did not remember
+[explain]Avoid using negative constructions if possible. Readers don’t like when you tell them what something is not. They like when you tell them what something is. Use forgot. 
+[allcase]Different kinds
+[explain]Redundant phrase. You don’t need different.
+[allcase]Difficulty
+[explain]Use the verb or adjective form for more powerful sentences.
+[allcase]Due to
+[explain]Clunky expression. Use because or revise.
+[allcase]Due to the fact that
+[explain]Empty phrase. Delete or use because or since.
+[allcase]During the course of
+[explain]Redundant phrase. You don’t need the course of.
+[allcase]Dwindle down
+[explain]Redundant phrase. You don’t need down.
+[allcase]Each and every
+[explain]Redundant phrase. You don’t need and every.
+[allcase]Ease
+[explain]Use the verb or adjective form for more powerful sentences. Ex: He thinks editing is a task you can do with ease. Better: He thinks editing is easy.
+[allcase]Eliminate altogether
+[explain]Redundant phrase. You don’t need altogether.
+[allcase]Eliminate entirely
+[explain]Redundant phrase. You don’t need entirely.
+[allcase]Emergency situation
+[explain]Redundant phrase. You don’t need situation.
+[allcase]Empty out
+[explain]Redundant phrase. You don’t need out.
+[allcase]End result
+[explain]Redundant phrase. You don’t need end.
+[allcase]Encouragement
+[explain]Use the verb or adjective form for more powerful sentences.
+[allcase]Enter in
+[explain]Redundant phrase. You don’t need in.
+[allcase]Equal to one another
+[explain]Redundant phrase. You don’t need to one another.
+[allcase]Eradicate completely
+[explain]Redundant phrase. You don’t need completely.
+[allcase]Every single person
+[explain]Redundant phrase. You don’t need single.
+[allcase]Evolve over time
+[explain]Redundant phrase. You don’t need over time.
+[allcase]Exact same
+[explain]Redundant phrase. You don’t need exact.
+[allcase]Facilitate
+[explain]Use simpler replacement, such as help, yield, or aid.
+[allcase]Facility
+[explain]Stilted phrase. Say exactly what an object is (school, hospital, government building).
+[allcase]Factor
+[explain]Dull, unnecessary word. Replace with a verb.
+[allcase]Failure
+[explain]Use the verb or adjective form for more powerful sentences.
+[allcase]Fall down
+[explain]Redundant phrase. You don’t need down.
+[allcase]Fell down
+[explain]Redundant phrase. You don’t need favorable.
+[allcase]Fellow classmate
+[explain]Redundant phrase. You don’t need fellow.
+[allcase]Fellow colleague
+[explain]Redundant phrase. You don’t need fellow.
+[allcase]Few in number
+[explain]Redundant phrase. You don’t need in number.
+[allcase]Figure out
+[explain]Clunky verb construction. Use determine, guess, or decide.
+[allcase]Filled to capacity
+[explain]Redundant phrase. You don’t need to capacity.
+[allcase]Final conclusion
+[explain]Redundant phrase. You don’t need final.
+[allcase]Finally
+[explain]Weak linking term. Be more precise. Ex: Finally, he got the job. Better: After five interviews, he got the job.
+[allcase]Final outcome
+[explain]Redundant phrase. You don’t need final.
+[allcase]Final ultimatum
+[explain]Redundant phrase. You don’t need final.
+[allcase]Find out
+[explain]Clunky verb construction. Use determine, or learn.
+[allcase]First and foremost
+[explain]Redundant phrase. You don’t need first and.
+[allcase]First conceived
+[explain]Redundant phrase. You don’t need first.
+[allcase]First of all
+[explain]Redundant phrase. You don’t need of all.
+[allcase]Fly/flew through the air
+[explain]Redundant phrase. You don’t need through the air.
+[allcase]For all intents and purposes
+[explain]Empty phrase. Don’t use it.
+[allcase]Foreign imports
+[explain]Redundant phrase. You don’t need foreign.
+[allcase]Former graduate
+[explain]Redundant phrase. You don’t need former.
+[allcase]For the most part
+[explain]Empty phrase. Don’t use it.
+[allcase]For the purpose of
+[explain]Empty phrase. Don’t use.
+[allcase]Former veteran
+[explain]Redundant phrase. You don’t need former.
+[allcase]Free gift
+[explain]Redundant phrase. You don’t need free.
+[allcase]Frequently
+[explain]Imprecise Phrase. Use something more specific.
+[allcase]Frozen ice
+[explain]Redundant phrase. You don’t need frozen.
+[allcase]Frozen tundra
+[explain]Redundant phrase. You don’t need frozen.
+[allcase]Fuse together
+[explain]Redundant phrase. You don’t need of together.
+[allcase]Future plans
+[explain]Redundant phrase. You don’t need future.
+[allcase]Gather together
+[explain]Redundant phrase. You don’t need together.
+[allcase]General public
+[explain]Redundant phrase. You don’t need general.
+[allcase]Get
+[explain]Weak verb. Cut it or use stronger verbs such as become, land, acquire, or retrieve.
+[allcase]Get out of
+[explain]Weak phrasal verb. Use exit.
+[allcase]Give in
+[explain]Weak phrasal verb. Use concede, or quit.
+[allcase]Go ahead and
+[explain]Clunky expression. You don’t need it. Just start with the verb that follows this expression. Ex: I might have to go ahead and call the cops. Better: I might have to call the cops.
+[allcase]Go back over
+[explain]Clunky verb construction. Use reread, reexamine, or reevaluate.
+[allcase]Go into
+[explain]Clunky verb construction. Use enter; or visit, discuss, or explain.
+[allcase]Go on
+[explain]Flabby verb construction. Use continue.
+[allcase]Grateful every day
+[explain]Flabby phrase. Use eternally grateful.
+[allcase]Grew in size
+[explain]Redundant phrase. You don’t need in size.
+[allcase]Grow in size
+[explain]Redundant phrase. You don’t need in size.
+[allcase]Grown in size
+[explain]Redundant phrase. You don’t need in size.
+[allcase]Had a discussion concerning
+[explain]Use the verb or adjective form for more powerful sentences.
+[allcase]Harder than it has to be
+[explain]Empty phrase. Use harder than necessary.
+[allcase]Has to be
+[explain]Clunky verb construction. Use must be.
+[allcase]have to be
+[explain]Clunky verb construction. Use must be.
+[allcase]Have a need for
+[explain]Use the verb or adjective form for more powerful sentences.
+[allcase]Heat up
+[explain]Redundant phrase. You don’t need up.
+[allcase]Helps keep
+[explain]Clunky verb construction. Use keeps or another strong verb.
+[allcase]Here’s the thing
+[explain]Colloquial expression. You can do without it.
+[allcase]Hollow tube
+[explain]Redundant phrase. You don’t need hollow.
+[allcase]I feel
+[explain]Timid expression. If you believe something, just say it.
+[allcase]I believe
+[explain]Timid expression. If you believe something, just say it.
+[allcase]If you need to
+[explain]Flabby if clause. Rework the sentence.
+[allcase]If you want to
+[explain]Flabby if clause. Rework the sentence.
+[allcase]If you wish like to
+[explain]Flabby if clause. Rework the sentence.
+[allcase]If you would like to
+[explain]Flabby if clause. Rework the sentence.
+[allcase]I might add
+[explain]Flabby phrase. Delete it. Ex: I’m an excellent writer, I might add. Better: I’m an excellent writer.
+[allcase]Increase in strength
+[explain]Use the verb or adjective form for more powerful sentences.
+[allcase]Individual
+[explain]Whenever possible and appropriate, use a simpler replacement, such as man, woman, or person.
+[allcase]Initial
+[explain]Whenever possible and appropriate, use a simpler replacement, such as first.
+[allcase]Integrate with each other
+[explain]Redundant phrase. You don’t need with each other. 
+[allcase]Intensity
+[explain]Use the verb or adjective form for more powerful sentences.
+[allcase]Intention is
+[explain]Use the verb or adjective form for more powerful sentences.
+[allcase]In terms of
+[explain]Flabby phrase. Delete it.
+[allcase]In my opinion
+[explain]Flabby phrase. Delete it.
+[allcase]In order to
+[explain]Redundant phrase. You don’t need in order.
+[allcase]In spite of that fact that
+[explain]Flabby phrase. Use although.
+[allcase]In the event of
+[explain]Flabby phrase. Use if.
+[allcase]In the event that
+[explain]Flabby phrase. Use if.
+[allcase]In the process of
+[explain]Flabby phrase. Delete it.
+[allcase]Introduced a new
+[explain]Redundant phrase. You don’t need a new.
+[allcase]Introduced for the first time
+[explain]Redundant phrase. You don’t need for the first time.
+[allcase]Investigation
+[explain]Use the verb or adjective form for more powerful sentences.
+[allcase]Is aware of
+[explain]Use the verb or adjective form for more powerful sentences.
+[allcase]Is in love with
+[explain]Use the verb or adjective form for more powerful sentences.
+[allcase]Is interesting to me
+[explain]Weak to-be verb construction. Revise it. Ex: Editing is interesting to me. Better: Editing interests me.
+[allcase]It is
+[explain]Grammar expletive that robs your sentence of strength. Avoid it. Ex: It is two hours before the game starts. Better: The game starts in two hours.
+[allcase]it’s
+[explain]Grammar expletive that robs your sentence of strength. Avoid it. Ex: It’s two hours before the game starts. Better: The game starts in two hours.
+[allcase]It seems like
+[explain]Flabby phrase & a grammar expletive. Delete it.
+[allcase]It would be
+[explain]Grammar expletive that robs your sentence of strength. Avoid it.
+[allcase]Join together
+[explain]Redundant phrase. You don’t need together.
+[allcase]Joint collaboration
+[explain]Redundant phrase. You don’t need joint.
+[allcase]Kneel down
+[explain]Redundant phrase. You don’t need down.
+[allcase]Knowledgeable expert
+[explain]Redundant phrase. You don’t need knowledgeable.
+[allcase]Lacked the ability to
+[explain]Use the verb or adjective form for more powerful sentences, such as wasn’t able to or couldn’t.
+[allcase]Later time
+[explain]Redundant phrase. You don’t need time.
+[allcase]Led to the destruction of
+[explain]Use the verb or adjective form for more powerful sentences.
+[allcase]Lift up
+[explain]Redundant phrase. You don’t need up.
+[allcase]Live studio audience
+[explain]Redundant phrase. You don’t need live.
+[allcase]Made a decision to
+[explain]Use the verb or adjective form for more powerful sentences.
+[allcase]Made/make an announcement
+[explain]Use the verb or adjective form for more powerful sentences.
+[allcase]Made it to
+[explain]Flabby phrase & a grammar expletive. Use arrived, or reached.
+[allcase]Made out of
+[explain]Redundant phrase. You don’t need out. Ex: It was made out of wood.
+[allcase]Major breakthrough
+[explain]Redundant phrase. You don’t need major.
+[allcase]Major feat
+[explain]Redundant phrase. You don’t need major.
+[allcase]May/might possibly
+[explain]Redundant phrase. You don’t need possibly.
+[allcase]Meaningful
+[explain]Weak adjective. Delete it or redo your sentence.
+[allcase]Meet together
+[explain]Redundant phrase. You don’t need together.
+[allcase]Meet with each other
+[explain]Redundant phrase. You don’t need with each other.
+[allcase]Merge together
+[explain]Redundant phrase. You don’t need together.
+[allcase]Mix together
+[explain]Redundant phrase. You don’t need together.
+[allcase]Most unique
+[explain]Redundant phrase. You don’t need most. Ex: His poetry is most unique.
+[allcase]Movement
+[explain]Use the verb or adjective form for more powerful sentences.
+[allcase]Mutual cooperation
+[explain]Redundant phrase. You don’t need mutual. 
+[allcase]Mutual respect for each other
+[explain]Redundant phrase. You don’t need for each other.
+[allcase]Need to do to
+[explain]Clunky verb construction. Use need to or must do.
+[allcase]Never before
+[explain]Redundant phrase. You don’t need before.
+[allcase]New innovation
+[explain]Redundant phrase. You don’t need new.
+[allcase]New invention
+[explain]Redundant phrase. You don’t need new.
+[allcase]None at all
+[explain]Redundant phrase. You don’t need at all.
+[allcase]Not honest
+[explain]Avoid using negative constructions if possible. Try to say what something is instead.
+[allcase]Not important
+[explain]Avoid using negative constructions if possible. Try to say what something is instead. Ex: It’s not important. Better: It’s unimportant/trivial/minor.
+[allcase]Now pending
+[explain]Redundant phrase. You don’t need now.
+[allcase]Off of
+[explain]Redundant phrase. You don’t need of.
+[allcase]Offered a suggestion
+[explain]Use the verb or adjective form for more powerful sentences.
+[allcase]On a regular basis
+[explain]Flabby phrase. Use regularly instead.
+[allcase]Open up
+[explain]Redundant phrase. You don’t need up (unless talking about someone revealing something to you).
+[allcase]Originally created
+[explain]Redundant phrase. You don’t need originally.
+[allcase]Outside in the yard
+[explain]Redundant phrase. You don’t need outside.
+[allcase]Outside of
+[explain]Redundant phrase. You don’t need of.
+[allcase]Over exaggerate
+[explain]Redundant phrase. You don’t need over.
+[allcase]Palm of my hand
+[explain]Redundant phrase. You don’t need of my hand.
+[allcase]Passing fad
+[explain]Redundant phrase. You don’t need passing.
+[allcase]Past experience
+[explain]Redundant phrase. You don’t need past.
+[allcase]Penetrate into
+[explain]Redundant phrase. You don’t need into.
+[allcase]Period of time
+[explain]Redundant phrase. You don’t need of time.
+[allcase]Personal friend
+[explain]Redundant phrase. You don’t need personal.
+[allcase]Personal opinion
+[explain]Redundant phrase. You don’t need personal.
+[allcase]Pick and choose
+[explain]Redundant phrase. You don’t need and choose.
+[allcase]Pick out
+[explain]Flabby phrase. Use choose instead.
+[allcase]Pick up on
+[explain]Flabby phrase. Use notice, or sense instead.
+[allcase]Play up
+[explain]Flabby phrase. Use emphasize instead.
+[allcase]Plunge down
+[explain]Redundant phrase. You don’t need down.
+[allcase]Point out
+[explain]Flabby phrase. Use emphasize, say, mention, or state instead.
+[allcase]Polar opposites
+[explain]Redundant phrase. You don’t need polar.
+[allcase]Postpone until later
+[explain]Redundant phrase. You don’t need until later.
+[allcase]Pouring down rain
+[explain]Redundant phrase. You don’t need down.
+[allcase]Preheat
+[explain]Redundant phrase. You don’t need pre.
+[allcase]Present time
+[explain]Redundant phrase. You don’t need time.
+[allcase]Protest against
+[explain]Redundant phrase. You don’t need against.
+[allcase]Put off
+[explain]Flabby phrase. Use postpone, delay, or stall instead.
+[allcase]Put together
+[explain]Flabby phrase. Use assemble, build, or built instead.
+[allcase]Raise up
+[explain]Redundant phrase. You don’t need up.
+[allcase]Reaction
+[explain]Use the verb or adjective form for more powerful sentences.
+[allcase]Really
+[explain]Flabby modifier. Try to do without, or think of a more powerful word you are modifying.
+[allcase]Reason why
+[explain]Redundant phrase. You don’t need why.
+[allcase]Refer back
+[explain]Redundant phrase. You don’t need back.
+[allcase]Refusal
+[explain]Use the verb or adjective form for more powerful sentences.
+[allcase]Reply back
+[explain]Redundant phrase. You don’t need back.
+[allcase]Resulted in a decrease
+[explain]Use increase.
+[allcase]Revert back
+[explain]Redundant phrase. You don’t need back.
+[allcase]Safehaven
+[explain]Redundant phrase. You don’t need safe.
+[allcase]Same exact
+[explain]Redundant phrase. You don’t need exact.
+[allcase]Seriousdanger
+[explain]Redundant phrase. You don’t need serious.
+[allcase]Shock
+[explain]Use the verb or adjective form for more powerful sentences.
+[allcase]Short
+[explain]Weak Adjective. Replace with something more precise. Ex: Bob was a short man. Better: Bob was four feet tall.
+[allcase]Show up
+[explain]Weak verb construction. Use appear, enter, visit, or arrive instead.
+[allcase]Situation
+[explain]Vague noun. Be more specific if possible.
+[allcase]Small
+[explain]Weak Adjective. Replace with something more precise.
+[allcase]So 
+[explain]Unnecessary intensifier. Delete. Ex: It was so delightful. Better: It was delightful.
+[allcase]Spell it out in detail
+[explain]Redundant phrase. You don’t need in detail. And you can use define, or explain instead.
+[allcase]Spend
+[explain]If this word is followed by an ing verb, modify your sentence.
+[allcase]Start off/out
+[explain]Redundant phrase. You don’t need off/out.
+[allcase]Starts to
+[explain]Redundant phrase. You don’t need to.
+[allcase]Still persist
+[explain]Redundant phrase. You don’t need still.
+[allcase]Still remains
+[explain]Redundant phrase. You don’t need still.
+[allcase]Sudden impulse
+[explain]Redundant phrase. You don’t need sudden.
+[allcase]Surprise
+[explain]Use the verb or adjective form for more powerful sentences.
+[allcase]Surrounded on all sides
+[explain]Redundant phrase. You don’t need on all sides.
+[allcase]The first step is to
+[explain]Flabby phrase. Use first, or start by instead.
+[allcase]Take a look at
+[explain]Redundant phrase & Nominalization. You don’t need take a.
+[allcase]Take action
+[explain]Flabby verb construction. Use act instead. Ex: You must take action to resolve the matter now. Better: You must act to resolve the matter now.
+[allcase]Takes up/Taking up
+[explain]Flabby verb construction. Use consume instead.
+[allcase]Talk about
+[explain]Flabby verb construction. Use discuss instead.
+[allcase]Tall
+[explain]Weak Adjective. Replace with something more precise. Ex: The building is tall. Better: The building is six hundred feet tall.
+[allcase]Temper tantrum
+[explain]Redundant phrase. You don’t need temper.
+[allcase]The most important thing is to
+[explain]Flabby expression. Delete it
+[allcase]The important thing is to
+[explain]Flabby expression. Delete it
+[allcase]The reason
+[explain]Flabby phrase. Delete it.
+[allcase]There’s / There is
+[explain]Grammar expletive that robs your sentence of strength. Avoid it.
+[allcase]There are / There were
+[explain]Grammar expletive that robs your sentence of strength. Avoid it.
+[allcase]There will be
+[explain]Grammar expletive that robs your sentence of strength. Avoid it.
+[allcase]Time and time again
+[explain]Flabby phrase. Use repeatedly instead.
+[allcase]Took up
+[explain]Flabby phrase. Use consumed or occupied instead.
+[allcase]Transformation
+[explain]His transformation into an athlete caused shock among his peers.
+[allcase]Try to figure out
+[explain]Flabby phrase. Use determine, guess or decide instead.
+[allcase]Two equal halves
+[explain]Redundant phrase. You don’t need two equal.
+[allcase]Utilize
+[explain]Use simpler replacement, such as use.
+[allcase]Went back over
+[explain]Flabby phrase. Use reread or reevaluated instead.
+[allcase]When it comes to
+[explain]Flabby phrase. Use when, with or delete the phrase instead.
+[allcase]Which is
+[explain]Flabby phrase you can live without. Ex: Chocolate, which is my favorite flavor, is also the name of my cat. Better: Chocolate, my favorite flavor, is also the name of my cat.
+[allcase]Who is
+[explain]Flabby phrase you can live without. Ex: His brother, who is a doctor, lives in Washington. Better: His brother, the doctor, lives in Washington.
+[allcase]Will be different
+[explain]Flabby to-be verb construction. Revise. Ex: Each instance will be different. Better: Each instance will differ.
+[allcase]Within that time frame
+[explain]Redundant phrase. You don’t need frame.
+[allcase]With reference to
+[explain]Flabby phrase. Use regarding instead.
+[allcase]Write down
+[explain]Redundant phrase. You don’t need down.
+[allcase]You can
+[explain]Flabby verb helpers. Delete or revise.
+[allcase]You’re going to
+[explain]Flabby phrase. Use you’ll instead.
+[allcase]You’re going to have to
+[explain]Flabby phrase. Use you’ll have to, or you must instead.
+[allcase]You’re going to need to
+[explain]Flabby phrase. Use you’ll have to, or you must instead.
+
+
+
+[comment]Synonyms:
+[allcase]ears dangled
+[explain]ears drooped 
+[allcase]she sighed
+[explain]Astonished: She let out an audible gasp. Sad: She sighed heavily. She heaved a heavy sigh. Embarrassed: She took a deep breath, puffing up her cheeks before she let it all out in one quick burst as she pressed her hoof to her forehead.
+[allcase]very dark
+[explain]black, inky, ebony, sooty, lightless, starless, unlit
+[allcase]said
+[explain]1. Exclaimed 2. Replied 3. Queried 4. Questioned 5. Murmured 6. Muttered 7. Screamed 8. Shouted 9. Whispered 10. Laughed 11. Cried 12. Whined 13. Yelled 14. Answered 15. Encouraged 16. Complained 17. Rasped 18. Whimpered 19. Barked 20. Giggled 21. Ordered 22. Implored 23. Insisted 24. Interrupted 25. Lectured 26. Mimicked 27. Uttered 28. Objected 29. Observed 30. Offered 31. Cowered 32. Sneered 33. Snarled 34. Remembered 35. Lied 36. Exaggerated 37. Cackled 38. Squealed 39. Fretted 40. Sobbed 41. Hollered 42. Persisted 43. Pestered 44. Pleaded 45. Pondered 46. Prattled 47. Prayed 48. Proclaimed 49. Proposed 50. Protested 51. Snapped 52. Added 53. Advised 54. Agreed 55. Allowed 56. Announced 57. Apologized 58. Argued 59. Began 60. Begged 61. Blurted 62. Started 63. Recalled 64. Remarked 65. Repeated 66. Responded 67. Revealed 68. Scolded 69. Simpered 70. Snobbed 71. Spluttered 72. Shrieked 73. Groaned 74. Sighed 75. Gurgled 76. Promised 77. Grumbled 78. Rumbled 79. Mumbled 80. Wondered 81. Thought 82. Told 83.asked 84. Informed 85. Moaned 86. Breathed 87. Coaxed 88. Chanted 89. Howled 90. Spoke 91. Stammered 92. Sulked 93. Tattled 94. Teased 95. Threatened 96. Tormented 97. Urged 98. Wailed 99. Boasted 100. Called 101. Chatted 102. Chuckled 103. Concluded 104. Decided 105. Declared 106. Denied 107. Disagreed 108. Drawled 109. Inquired 110. Falted 111. Finished 112. Gasped 111. Gloated 113. Grunted 114. Hinted 115. Hissed 116. Warned 117. Wept 118. Wheezed 119. Yawned 120. Tempted 121. Reflected 122. Bellowed 123. Related 124. Oogled 125. Burble 126. Commanded 127. Wheedled 128. Grizzled 129. Gripe 130. Sang 131. Twittered 132. Demanded 134. Wooed 135. Blasted 136. Bit 137. Chewed 138. Bawled 139. Toasted 140. Growled 141. Roasted 142. Hounded 143. Grimaced 144. Slurred 145. Joked 146. Prodded 147. Lamented 148. Mourned 149. Stuttered 150. Dribbled. 151. Pronounced 152. Spelled out 153. Reminisced 154. Warbled 155. Elocuted 156. Implied 157. Insinuated 158. Challenged 159. Countered 160. Countermanded 161. Bandied   162. Riposted 163. Deliberated 164. Communicated 165. Oozed 166. Assessed 167. Negated 168. Abnegated 169. Intonated 170. Cussed 171. Cursed 172. Caterwauled 173. Assured 174. Delivered 175. Bleated 176. Dripped 177. Flirted 178. Assented 179. Swore 180. Hesitated 181. Egged-on 182. Confessed 183. Chirped 184. Chirruped 185. Roared 186. Mewed 187. Rattled on 188. Harped on 189. Nattered on 190. Crapped on 191. Went on 192. Continued 193. Blathered 194. Blustered 195. Huffed 196. Nagged 197. Shouted down 198. Squeaked 199. Wished
+[allcase]contract
+[explain]clench, tense, stiffen
+[allcase]clench
+[explain]contract, tense, stiffen
+[allcase]blinked
+[explain]squinted 
+
+
+[comment] Very ________
+[allcase]very accurate
+[explain]precise, exact, unimpeachable, perfect, flawless
+[allcase]very aggressive
+[explain]forceful, overconfident, insistent, hardline
+[allcase]very amazed
+[explain]astounded, flabbergasted, astonished, shocked
+[allcase]very angry
+[explain]furious, irate, enraged, incensed, fuming, livid
+[allcase]very anxious
+[explain]dismayed, apprehensive, restless, fretful
+[allcase]very aware
+[explain]conscious, savvy, apprised, mindful, cognizant
+[allcase]very bad
+[explain]awful, deplorable, appalling, rotten, miserable
+[allcase]very basic
+[explain]rudimentary, primary, fundamental, simple
+[allcase]very beautiful
+[explain]gorgeous, stunning, exquisite, magnificent
+[allcase]very bloody
+[explain]gory, brutal, barbarous, savage, murderous
+[allcase]very bony
+[explain]skeletal, angular, spindly, gaunt, emaciated
+[allcase]very boring
+[explain]tedious, dreary, uninteresting, mind-numbing
+[allcase]very bright
+[explain]brilliant, dazzling, radiant, blinding, intense
+[allcase]very capable
+[explain]efficient, competent, adept, proficient, skillful
+[allcase]very careful
+[explain]meticulous, fastidious, precise, scrupulous
+[allcase]very caring
+[explain]compassionate, kind, attentive, sympathetic
+[allcase]very civil
+[explain]polite, courteous, respectful, cultured, mannerly
+[allcase]very clean
+[explain]spotless, immaculate, stainless, shining, hygienic
+[allcase]very clear
+[explain]transparent, sheer, translucent, glassy, crystal
+[allcase]very clever
+[explain]astute, brilliant, shrewd, ingenious, crafty, sharp
+[allcase]very cold
+[explain]frigid, bitter, icy, freezing, glacial, frosty, polar
+[allcase]very colorful
+[explain]vibrant, vivid, kaleidoscopic, variegated, vivid
+[allcase]very competitive
+[explain]ambitious, driven, cutthroat, bloodthirsty
+[allcase]very concerned
+[explain]worried, troubled, upset, distressed, agitated
+[allcase]very confident
+[explain]poised, cool, self-assured, self-reliant, secure
+[allcase]very confused
+[explain]baffled, befuddled, mystified, clueless, dazed
+[allcase]very conscious
+[explain]deliberate, intentional, premeditated, willful
+[allcase]very consistent
+[explain]constant, unfailing, uniform, harmonious, same
+[allcase]very contrary
+[explain]belligerent, argumentative, confrontational
+[allcase]very conventional
+[explain]conservative, common, predictable, unoriginal
+[allcase]very corrupt
+[explain]fraudulent, crooked, unethical, dishonest, rotten
+[allcase]very creamy
+[explain]velvety, buttery, rich, smooth, milky, greasy
+[allcase]very creepy
+[explain]unnerving, skin-crawling, spooky, sinister, weird
+[allcase]very critical
+[explain]vital, crucial, essential, indispensable, integral
+[allcase]very crunchy
+[explain]crispy, brittle, crackling, gravelly, crusty, gritty
+[allcase]very curious
+[explain]inquisitive, nosy, prying, snoopy, quizzical
+[allcase]very cute
+[explain]adorable, endearing, delightful, pretty, charming
+[allcase]very dangerous
+[explain]perilous, precarious, unsafe, treacherous, dicey
+[allcase]very dark
+[explain]black, inky, ebony, sooty, lightless, starless, unlit
+[allcase]very decent
+[explain]civilized, upright, courteous, respectable, noble
+[allcase]very deep
+[explain]abysmal, bottomless, cavernous, yawning, vast
+[allcase]very deformed
+[explain]twisted, contorted, misshapen, mutilated
+[allcase]very delicate
+[explain]subtle, slight, fragile, frail, flimsy, insubstantial
+[allcase]very desperate
+[explain]frantic, fraught, grave, serious, hopeless, dire
+[allcase]very determined
+[explain]resolute, adamant, obstinate, tenacious, dogged
+[allcase]very different
+[explain]unusual, distinctive, atypical, dissimilar, unlike
+[allcase]very difficult
+[explain]complicated, complex, demanding, arduous
+[allcase]very dirty
+[explain]filthy, foul, grimy, polluted, squalid, dilapidated
+[allcase]very disagreeable
+[explain]contrary, obnoxious, offensive, repugnant, rude
+[allcase]very dismal
+[explain]miserable, cheerless, depressing, morbid
+[allcase]very distinct
+[explain]clear, definite, patent, evident, apparent
+[allcase]very dramatic
+[explain]theatrical, histrionic, melodramatic, vivid
+[allcase]very dry
+[explain]arid, parched, sere, dehydrated, withered
+[allcase]very dubious
+[explain]suspicious, skeptical, cynical, unconvinced
+[allcase]very eager
+[explain]impatient, ardent, fervent, keen, earnest
+[allcase]very easy
+[explain]effortless, uncomplicated, unchallenging, simple
+[allcase]very educational
+[explain]enlightening, edifying, informative, revealing
+[allcase]very efficient
+[explain]competent, proficient, resourceful, able
+[allcase]very embarrassed
+[explain]mortified, humiliated, discomfited, ashamed
+[allcase]very emotional
+[explain]demonstrative, sensitive, temperamental
+[allcase]very enthusiastic
+[explain]zealous, eager, fervent, vehement, ebullient
+[allcase]very exciting
+[explain]exhilarating, electrifying, thrilling, breathtaking
+[allcase]very expensive
+[explain]costly, exorbitant, overpriced, extravagant
+[allcase]very fair
+[explain]equitable, impartial, neutral, nonpartisan
+[allcase]very faithful
+[explain]loyal, devoted, staunch, unwavering, stalwart
+[allcase]very familiar
+[explain]common, established, typical, traditional
+[allcase]very famous
+[explain]renowned, eminent, legendary, celebrated
+[allcase]very far
+[explain]distant, remote, isolated, secluded, extrasolar
+[allcase]very fast
+[explain]rapid, swift, fleet, blistering, supersonic
+[allcase]very fat
+[explain]obese, corpulent, rotund, blubbery, round
+[allcase]very fertile
+[explain]prolific, productive, fruitful, rich, lush, fecund
+[allcase]very few
+[explain]meager, scarce, scant, limited, negligible
+[allcase]very fierce
+[explain]vicious, ferocious, savage, keen, intense, feral
+[allcase]very firm
+[explain]solid, hard, rigid, set, frozen, unyielding
+[allcase]very fizzy
+[explain]effervescent, frothy, foamy, sudsy
+[allcase]very fluffy
+[explain]downy, fuzzy, fleecy, feathery, cottony
+[allcase]very fond
+[explain]devoted, attentive, enamored, doting
+[allcase]very fragile
+[explain]tenuous, unstable, precarious, frail, delicate
+[allcase]very friendly
+[explain]gregarious, outgoing, chummy, demonstrative
+[allcase]very frustrating
+[explain]exasperating, infuriating, disheartening, vexing
+[allcase]very full
+[explain]overflowing, bursting, crammed, packed, sated
+[allcase]very funny
+[explain]hilarious, hysterical, sidesplitting, rollicking
+[allcase]very good
+[explain]superb, superior, excellent, outstanding
+[allcase]very graceful
+[explain]flowing, supple, lithe, willowy, lissome
+[allcase]very greedy
+[explain]gluttonous, avaricious, materialistic, insatiable
+[allcase]very hairy
+[explain]hirsute, shaggy, furry, bushy, unshaven
+[allcase]very happy
+[explain]ecstatic, overjoyed, euphoric, blissful, elated
+[allcase]very hard
+[explain]inflexible, stony, steely, unyielding, tough, rigid
+[allcase]very healthy
+[explain]hale, hardy, flourishing, fit, robust, vigorous
+[allcase]very heavy
+[explain]leaden, ponderous, weighty, dense, hefty
+[allcase]very helpful
+[explain]supportive, obliging, accommodating, invaluable
+[allcase]very honest
+[explain]candid, sincere, authentic, forthright, frank
+[allcase]very hot
+[explain]burning, scalding, blistering, scorching, searing
+[allcase]very hungry
+[explain]starving, famished, ravenous, hollow, voracious
+[allcase]very ill
+[explain]infirm, bedridden, frail, terminal, incurable
+[allcase]very immature
+[explain]childish, infantile, naive, jejune, callow, green
+[allcase]very immoral
+[explain]depraved, decadent, debauched, iniquitous
+[allcase]very important
+[explain]crucial, vital, essential, paramount, imperative
+[allcase]very impressive
+[explain]extraordinary, remarkable, awe-inspiring
+[allcase]very inebriated
+[explain]intoxicated, drunk, soused, smashed, plastered
+[allcase]very informal
+[explain]casual, unceremonious, easygoing, simple
+[allcase]very intelligent
+[explain]brainy, clever, bright, gifted, intellectual, astute
+[allcase]very intense
+[explain]severe, extreme, fierce, overpowering, acute
+[allcase]very interesting
+[explain]fascinating, remarkable, riveting, compelling
+[allcase]very jealous
+[explain]envious, resentful, grudging, green, bitter
+[allcase]very juicy
+[explain]succulent, moist, ripe, luscious, fleshy, syrupy
+[allcase]very large
+[explain]huge, humongous, mammoth, gargantuan
+[allcase]very lavish
+[explain]excessive, opulent, posh, luxurious, sumptuous
+[allcase]very light
+[explain]buoyant, insubstantial, weightless, airy, ethereal
+[allcase]very likely
+[explain]expected, imminent, probable, unavoidable
+[allcase]very lively
+[explain]energetic, vivacious, exuberant, spirited
+[allcase]very logical
+[explain]rational, cogent, credible, consistent, sound
+[allcase]very lonely
+[explain]isolated, deserted, forlorn, solitary, abandoned
+[allcase]very long
+[explain]extended, extensive, interminable, protracted
+[allcase]very loud
+[explain]deafening, thunderous, booming, blaring
+[allcase]very loved
+[explain]adored, precious, cherished, revered, beloved
+[allcase]very lucky
+[explain]charmed, blessed, favored, fortunate, fluky
+[allcase]very moody
+[explain]morose, temperamental, unstable, changeable
+[allcase]very much
+[explain]plenty, oceans, heaps, scads, oodles, loads
+[allcase]very much so
+[explain]of course, okay, yes, absolutely, precisely
+[allcase]very musical
+[explain]melodic, melodious, harmonious, dulcet
+[allcase]very near
+[explain]handy, close-by, alongside, convenient, nearby
+[allcase]very neat
+[explain]orderly, tidy, uncluttered, immaculate, spotless
+[allcase]very negative
+[explain]pessimistic, defeatist, cynical, critical, fatalistic
+[allcase]very new
+[explain]novel, innovative, fresh, original, cutting-edge
+[allcase]very nice
+[explain]enjoyable, pleasant, agreeable, satisfying
+[allcase]very numerous
+[explain]abundant, copious, myriad, profuse
+[allcase]very obvious
+[explain]apparent, clear, evident, plain, visible
+[allcase]very occasionally
+[explain]seldom, rarely, infrequently, sporadically
+[allcase]very old
+[explain]grizzled, aged, hoary, ancient, grey, decrepit
+[allcase]very opinionated
+[explain]dogmatic, cocksure, biased, partisan
+[allcase]very optimistic
+[explain]enthusiastic, buoyant, encouraged, positive
+[allcase]very painful
+[explain]excruciating, agonizing, searing, unbearable
+[allcase]very pale
+[explain]white, pallid, ashen, sallow, colorless, pasty
+[allcase]very persuasive
+[explain]convincing, believable, compelling, charming
+[allcase]very pleasant
+[explain]satisfying, fulfilling, rewarding, gratifying
+[allcase]very poor
+[explain]destitute, indigent, penniless, impoverished
+[allcase]very popular
+[explain]trendy, fashionable, admired, prevalent
+[allcase]very positive
+[explain]optimistic, upbeat, affirmative, constructive
+[allcase]very practical
+[explain]realistic, sensible, functional, doable, viable
+[allcase]very presentable
+[explain]shipshape, well-groomed, tidy, personable
+[allcase]very pure
+[explain]unadulterated, wholesome, pristine, clean
+[allcase]very quiet
+[explain]noiseless, silent, still, hushed, soundless
+[allcase]very rare
+[explain]scarce, sparse, unique, exceptional, peerless
+[allcase]very realistic
+[explain]genuine, credible, authentic, rational, true
+[allcase]very reasonable
+[explain]equitable, judicious, sensible, practical, fair
+[allcase]very recent
+[explain]the latest, current, fresh, up-to-date
+[allcase]very relevant
+[explain]germane, pertinent, appropriate, significant
+[allcase]very religious
+[explain]spiritual, devout, pious, fervent, dedicated
+[allcase]very responsible
+[explain]dependable, conscientious, reliable, steadfast
+[allcase]very risky
+[explain]perilous, hazardous, treacherous, precarious
+[allcase]very roomy
+[explain]spacious, expansive, vast, palatial, commodious
+[allcase]very rough
+[explain]coarse, jagged, rugged, craggy, gritty, broken
+[allcase]very rowdy
+[explain]boisterous, disorderly, raucous, unruly, wild
+[allcase]very rude
+[explain]vulgar, insolent, offensive, derogatory, boorish
+[allcase]very sad
+[explain]desolate, disconsolate, wretched, dejected
+[allcase]very safe
+[explain]harmless, benign, secure, protected, sheltered
+[allcase]very similar
+[explain]identical, matching, indistinguishable, exact
+[allcase]very sassy
+[explain]impertinent, cheeky, insolent, disrespectful
+[allcase]very scared
+[explain]terrified, petrified, terror-stricken, panicked
+[allcase]very serious
+[explain]solemn, somber, stern, dour, melancholy, grim
+[allcase]very severe
+[explain]acute, grave, critical, serious, brutal, relentless
+[allcase]very sexy
+[explain]seductive, steamy, provocative, erotic, sensual
+[allcase]very shaky
+[explain]tremulous, quaking, vibrating, unsteady
+[allcase]very short
+[explain]stubby, squat, dwarf, diminutive, petite
+[allcase]very shy
+[explain]timid, backward, introverted, withdrawn
+[allcase]very significant
+[explain]key, noteworthy, momentous, major, vital
+[allcase]very silky
+[explain]sleek, smooth, satiny, glossy, lustrous, shiny
+[allcase]very similar
+[explain]alike, akin, analogous, comparable, equivalent
+[allcase]very simple
+[explain]easy, straightforward, effortless, uncomplicated
+[allcase]very slow
+[explain]sluggish, sedate, plodding, creeping, snail-like
+[allcase]very small
+[explain]tiny, miniscule, infinitesimal, microscopic, wee
+[allcase]very smooth
+[explain]flat, glassy, polished, level, even, unblemished
+[allcase]very soft
+[explain]malleable, yielding, spongy, muted, doughy
+[allcase]very sorry
+[explain]remorseful, repentant, penitent, contrite
+[allcase]very sour
+[explain]acerbic, tart, vinegary, biting, harsh, caustic
+[allcase]very specific
+[explain]precise, exact, explicit, definite, unambiguous
+[allcase]very stinky
+[explain]putrid, fetid, rank, rancid, putrescent, noxious
+[allcase]very strange
+[explain]weird, eerie, bizarre, uncanny, peculiar, odd
+[allcase]very strict
+[explain]stern, austere, severe, rigorous, harsh, rigid
+[allcase]very strong
+[explain]muscular, brawny, rugged, powerful, tough
+[allcase]very stupid
+[explain]idiotic, dense, vacuous, ridiculous, inane
+[allcase]very substantial
+[explain]considerable, significant, extensive, ample
+[allcase]very successful
+[explain]lucrative, productive, thriving, prosperous
+[allcase]very sudden
+[explain]unexpected, abrupt, precipitous, unforeseen
+[allcase]very suitable
+[explain]appropriate, fitting, seemly, proper, correct
+[allcase]very sure
+[explain]positive, persuaded, certain, convinced, absolute
+[allcase]very suspicious
+[explain]skeptical, distrustful, wary, guarded, leery
+[allcase]very sweet
+[explain]syrupy, sugary, honeyed, cloying, candied
+[allcase]very tactile
+[explain]touchable, palpable, physical, perceptible
+[allcase]very tall
+[explain]towering, lofty, multistory, soaring, statuesque
+[allcase]very tame
+[explain]docile, submissive, meek, compliant, subdued
+[allcase]very tasty
+[explain]delectable, mouthwatering, scrumptious, divine
+[allcase]very tempting
+[explain]irresistible, enticing, tantalizing, alluring
+[allcase]very tense
+[explain]overwrought, rigid, taut, strained, agitated
+[allcase]very terrible
+[explain]dreadful, horrendous, horrific, shocking
+[allcase]very thin 
+[explain]gaunt, scrawny, emaciated, haggard, skeletal
+[allcase]very tired
+[explain]exhausted, spent, frazzled, bushed, drained
+[allcase]very traditional
+[explain]conventional, established, customary, habitual
+[allcase]very treacherous
+[explain]traitorous, disloyal, unfaithful, perfidious
+[allcase]very ugly
+[explain]hideous, revolting, repugnant, grotesque
+[allcase]very unfair
+[explain]unjust, bigoted, prejudiced, inequitable
+[allcase]very unlikely
+[explain]improbable, implausible, doubtful, dubious
+[allcase]very unusual
+[explain]abnormal, extraordinary, uncommon, unique
+[allcase]very useful
+[explain]expedient, effective, nifty, handy, valuable
+[allcase]very valuable
+[explain]precious, priceless, treasured, inestimable
+[allcase]very violent
+[explain]abusive, savage, barbarous, cutthroat, cruel
+[allcase]very visible
+[explain]conspicuous, exposed, obvious, prominent
+[allcase]very warm
+[explain]stifling, hot, sultry, sweltering, oppressive
+[allcase]very wary
+[explain]skeptical, suspicious, leery, vigilant, distrustful
+[allcase]very weak
+[explain]feeble, frail, delicate, debilitated, fragile, sickly
+[allcase]very well
+[explain]superb, fine, fabulous, all right, okay, good
+[allcase]very wet
+[explain]saturated, soaked, waterlogged, sopping
+[allcase]very wicked
+[explain]evil, sinful, villainous, nefarious, fiendish
+[allcase]very wide
+[explain]vast, expansive, sweeping, boundless, distended
+[allcase]very widespread
+[explain]extensive, pervasive, prevalent, rampant
+[allcase]very wild
+[explain]untamed, feral, unmanageable, uncontrollable
+[allcase]very windy
+[explain]roaring, blustery, turbulent, howling, wild
+[allcase]very wise
+[explain]sagacious, sage, astute, enlightened, shrewd
+[allcase]very worried
+[explain]distressed, distraught, overwrought, upset
+[allcase]very young
+[explain]undeveloped, fledgling, immature, budding
+[allcase]very zealous
+[explain]driven, ambitious, motivated, passionate
+
+[comment] Extremely ________
+
+[allcase]extremely accurate
+[explain]precise, exact, unimpeachable, perfect, flawless
+[allcase]extremely aggressive
+[explain]forceful, overconfident, insistent, hardline
+[allcase]extremely amazed
+[explain]astounded, flabbergasted, astonished, shocked
+[allcase]extremely angry
+[explain]furious, irate, enraged, incensed, fuming, livid
+[allcase]extremely anxious
+[explain]dismayed, apprehensive, restless, fretful
+[allcase]extremely aware
+[explain]conscious, savvy, apprised, mindful, cognizant
+[allcase]extremely bad
+[explain]awful, deplorable, appalling, rotten, miserable
+[allcase]extremely basic
+[explain]rudimentary, primary, fundamental, simple
+[allcase]extremely beautiful
+[explain]gorgeous, stunning, exquisite, magnificent
+[allcase]extremely bloody
+[explain]gory, brutal, barbarous, savage, murderous
+[allcase]extremely bony
+[explain]skeletal, angular, spindly, gaunt, emaciated
+[allcase]extremely boring
+[explain]tedious, dreary, uninteresting, mind-numbing
+[allcase]extremely bright
+[explain]brilliant, dazzling, radiant, blinding, intense
+[allcase]extremely capable
+[explain]efficient, competent, adept, proficient, skillful
+[allcase]extremely careful
+[explain]meticulous, fastidious, precise, scrupulous
+[allcase]extremely caring
+[explain]compassionate, kind, attentive, sympathetic
+[allcase]extremely civil
+[explain]polite, courteous, respectful, cultured, mannerly
+[allcase]extremely clean
+[explain]spotless, immaculate, stainless, shining, hygienic
+[allcase]extremely clear
+[explain]transparent, sheer, translucent, glassy, crystal
+[allcase]extremely clever
+[explain]astute, brilliant, shrewd, ingenious, crafty, sharp
+[allcase]extremely cold
+[explain]frigid, bitter, icy, freezing, glacial, frosty, polar
+[allcase]extremely colorful
+[explain]vibrant, vivid, kaleidoscopic, variegated, vivid
+[allcase]extremely competitive
+[explain]ambitious, driven, cutthroat, bloodthirsty
+[allcase]extremely concerned
+[explain]worried, troubled, upset, distressed, agitated
+[allcase]extremely confident
+[explain]poised, cool, self-assured, self-reliant, secure
+[allcase]extremely confused
+[explain]baffled, befuddled, mystified, clueless, dazed
+[allcase]extremely conscious
+[explain]deliberate, intentional, premeditated, willful
+[allcase]extremely consistent
+[explain]constant, unfailing, uniform, harmonious, same
+[allcase]extremely contrary
+[explain]belligerent, argumentative, confrontational
+[allcase]extremely conventional
+[explain]conservative, common, predictable, unoriginal
+[allcase]extremely corrupt
+[explain]fraudulent, crooked, unethical, dishonest, rotten
+[allcase]extremely creamy
+[explain]velvety, buttery, rich, smooth, milky, greasy
+[allcase]extremely creepy
+[explain]unnerving, skin-crawling, spooky, sinister, weird
+[allcase]extremely critical
+[explain]vital, crucial, essential, indispensable, integral
+[allcase]extremely crunchy
+[explain]crispy, brittle, crackling, gravelly, crusty, gritty
+[allcase]extremely curious
+[explain]inquisitive, nosy, prying, snoopy, quizzical
+[allcase]extremely cute
+[explain]adorable, endearing, delightful, pretty, charming
+[allcase]extremely dangerous
+[explain]perilous, precarious, unsafe, treacherous, dicey
+[allcase]extremely dark
+[explain]black, inky, ebony, sooty, lightless, starless, unlit
+[allcase]extremely decent
+[explain]civilized, upright, courteous, respectable, noble
+[allcase]extremely deep
+[explain]abysmal, bottomless, cavernous, yawning, vast
+[allcase]extremely deformed
+[explain]twisted, contorted, misshapen, mutilated
+[allcase]extremely delicate
+[explain]subtle, slight, fragile, frail, flimsy, insubstantial
+[allcase]extremely desperate
+[explain]frantic, fraught, grave, serious, hopeless, dire
+[allcase]extremely determined
+[explain]resolute, adamant, obstinate, tenacious, dogged
+[allcase]extremely different
+[explain]unusual, distinctive, atypical, dissimilar, unlike
+[allcase]extremely difficult
+[explain]complicated, complex, demanding, arduous
+[allcase]extremely dirty
+[explain]filthy, foul, grimy, polluted, squalid, dilapidated
+[allcase]extremely disagreeable
+[explain]contrary, obnoxious, offensive, repugnant, rude
+[allcase]extremely dismal
+[explain]miserable, cheerless, depressing, morbid
+[allcase]extremely distinct
+[explain]clear, definite, patent, evident, apparent
+[allcase]extremely dramatic
+[explain]theatrical, histrionic, melodramatic, vivid
+[allcase]extremely dry
+[explain]arid, parched, sere, dehydrated, withered
+[allcase]extremely dubious
+[explain]suspicious, skeptical, cynical, unconvinced
+[allcase]extremely eager
+[explain]impatient, ardent, fervent, keen, earnest
+[allcase]extremely easy
+[explain]effortless, uncomplicated, unchallenging, simple
+[allcase]extremely educational
+[explain]enlightening, edifying, informative, revealing
+[allcase]extremely efficient
+[explain]competent, proficient, resourceful, able
+[allcase]extremely embarrassed
+[explain]mortified, humiliated, discomfited, ashamed
+[allcase]extremely emotional
+[explain]demonstrative, sensitive, temperamental
+[allcase]extremely enthusiastic
+[explain]zealous, eager, fervent, vehement, ebullient
+[allcase]extremely exciting
+[explain]exhilarating, electrifying, thrilling, breathtaking
+[allcase]extremely expensive
+[explain]costly, exorbitant, overpriced, extravagant
+[allcase]extremely fair
+[explain]equitable, impartial, neutral, nonpartisan
+[allcase]extremely faithful
+[explain]loyal, devoted, staunch, unwavering, stalwart
+[allcase]extremely familiar
+[explain]common, established, typical, traditional
+[allcase]extremely famous
+[explain]renowned, eminent, legendary, celebrated
+[allcase]extremely far
+[explain]distant, remote, isolated, secluded, extrasolar
+[allcase]extremely fast
+[explain]rapid, swift, fleet, blistering, supersonic
+[allcase]extremely fat
+[explain]obese, corpulent, rotund, blubbery, round
+[allcase]extremely fertile
+[explain]prolific, productive, fruitful, rich, lush, fecund
+[allcase]extremely few
+[explain]meager, scarce, scant, limited, negligible
+[allcase]extremely fierce
+[explain]vicious, ferocious, savage, keen, intense, feral
+[allcase]extremely firm
+[explain]solid, hard, rigid, set, frozen, unyielding
+[allcase]extremely fizzy
+[explain]effervescent, frothy, foamy, sudsy
+[allcase]extremely fluffy
+[explain]downy, fuzzy, fleecy, feathery, cottony
+[allcase]extremely fond
+[explain]devoted, attentive, enamored, doting
+[allcase]extremely fragile
+[explain]tenuous, unstable, precarious, frail, delicate
+[allcase]extremely friendly
+[explain]gregarious, outgoing, chummy, demonstrative
+[allcase]extremely frustrating
+[explain]exasperating, infuriating, disheartening, vexing
+[allcase]extremely full
+[explain]overflowing, bursting, crammed, packed, sated
+[allcase]extremely funny
+[explain]hilarious, hysterical, sidesplitting, rollicking
+[allcase]extremely good
+[explain]superb, superior, excellent, outstanding
+[allcase]extremely graceful
+[explain]flowing, supple, lithe, willowy, lissome
+[allcase]extremely greedy
+[explain]gluttonous, avaricious, materialistic, insatiable
+[allcase]extremely hairy
+[explain]hirsute, shaggy, furry, bushy, unshaven
+[allcase]extremely happy
+[explain]ecstatic, overjoyed, euphoric, blissful, elated
+[allcase]extremely hard
+[explain]inflexible, stony, steely, unyielding, tough, rigid
+[allcase]extremely healthy
+[explain]hale, hardy, flourishing, fit, robust, vigorous
+[allcase]extremely heavy
+[explain]leaden, ponderous, weighty, dense, hefty
+[allcase]extremely helpful
+[explain]supportive, obliging, accommodating, invaluable
+[allcase]extremely honest
+[explain]candid, sincere, authentic, forthright, frank
+[allcase]extremely hot
+[explain]burning, scalding, blistering, scorching, searing
+[allcase]extremely hungry
+[explain]starving, famished, ravenous, hollow, voracious
+[allcase]extremely ill
+[explain]infirm, bedridden, frail, terminal, incurable
+[allcase]extremely immature
+[explain]childish, infantile, naive, jejune, callow, green
+[allcase]extremely immoral
+[explain]depraved, decadent, debauched, iniquitous
+[allcase]extremely important
+[explain]crucial, vital, essential, paramount, imperative
+[allcase]extremely impressive
+[explain]extraordinary, remarkable, awe-inspiring
+[allcase]extremely inebriated
+[explain]intoxicated, drunk, soused, smashed, plastered
+[allcase]extremely informal
+[explain]casual, unceremonious, easygoing, simple
+[allcase]extremely intelligent
+[explain]brainy, clever, bright, gifted, intellectual, astute
+[allcase]extremely intense
+[explain]severe, extreme, fierce, overpowering, acute
+[allcase]extremely interesting
+[explain]fascinating, remarkable, riveting, compelling
+[allcase]extremely jealous
+[explain]envious, resentful, grudging, green, bitter
+[allcase]extremely juicy
+[explain]succulent, moist, ripe, luscious, fleshy, syrupy
+[allcase]extremely large
+[explain]huge, humongous, mammoth, gargantuan
+[allcase]extremely lavish
+[explain]excessive, opulent, posh, luxurious, sumptuous
+[allcase]extremely light
+[explain]buoyant, insubstantial, weightless, airy, ethereal
+[allcase]extremely likely
+[explain]expected, imminent, probable, unavoidable
+[allcase]extremely lively
+[explain]energetic, vivacious, exuberant, spirited
+[allcase]extremely logical
+[explain]rational, cogent, credible, consistent, sound
+[allcase]extremely lonely
+[explain]isolated, deserted, forlorn, solitary, abandoned
+[allcase]extremely long
+[explain]extended, extensive, interminable, protracted
+[allcase]extremely loud
+[explain]deafening, thunderous, booming, blaring
+[allcase]extremely loved
+[explain]adored, precious, cherished, revered, beloved
+[allcase]extremely lucky
+[explain]charmed, blessed, favored, fortunate, fluky
+[allcase]extremely moody
+[explain]morose, temperamental, unstable, changeable
+[allcase]extremely much
+[explain]plenty, oceans, heaps, scads, oodles, loads
+[allcase]extremely much so
+[explain]of course, okay, yes, absolutely, precisely
+[allcase]extremely musical
+[explain]melodic, melodious, harmonious, dulcet
+[allcase]extremely near
+[explain]handy, close-by, alongside, convenient, nearby
+[allcase]extremely neat
+[explain]orderly, tidy, uncluttered, immaculate, spotless
+[allcase]extremely negative
+[explain]pessimistic, defeatist, cynical, critical, fatalistic
+[allcase]extremely new
+[explain]novel, innovative, fresh, original, cutting-edge
+[allcase]extremely nice
+[explain]enjoyable, pleasant, agreeable, satisfying
+[allcase]extremely numerous
+[explain]abundant, copious, myriad, profuse
+[allcase]extremely obvious
+[explain]apparent, clear, evident, plain, visible
+[allcase]extremely occasionally
+[explain]seldom, rarely, infrequently, sporadically
+[allcase]extremely old
+[explain]grizzled, aged, hoary, ancient, grey, decrepit
+[allcase]extremely opinionated
+[explain]dogmatic, cocksure, biased, partisan
+[allcase]extremely optimistic
+[explain]enthusiastic, buoyant, encouraged, positive
+[allcase]extremely painful
+[explain]excruciating, agonizing, searing, unbearable
+[allcase]extremely pale
+[explain]white, pallid, ashen, sallow, colorless, pasty
+[allcase]extremely persuasive
+[explain]convincing, believable, compelling, charming
+[allcase]extremely pleasant
+[explain]satisfying, fulfilling, rewarding, gratifying
+[allcase]extremely poor
+[explain]destitute, indigent, penniless, impoverished
+[allcase]extremely popular
+[explain]trendy, fashionable, admired, prevalent
+[allcase]extremely positive
+[explain]optimistic, upbeat, affirmative, constructive
+[allcase]extremely practical
+[explain]realistic, sensible, functional, doable, viable
+[allcase]extremely presentable
+[explain]shipshape, well-groomed, tidy, personable
+[allcase]extremely pure
+[explain]unadulterated, wholesome, pristine, clean
+[allcase]extremely quiet
+[explain]noiseless, silent, still, hushed, soundless
+[allcase]extremely rare
+[explain]scarce, sparse, unique, exceptional, peerless
+[allcase]extremely realistic
+[explain]genuine, credible, authentic, rational, true
+[allcase]extremely reasonable
+[explain]equitable, judicious, sensible, practical, fair
+[allcase]extremely recent
+[explain]the latest, current, fresh, up-to-date
+[allcase]extremely relevant
+[explain]germane, pertinent, appropriate, significant
+[allcase]extremely religious
+[explain]spiritual, devout, pious, fervent, dedicated
+[allcase]extremely responsible
+[explain]dependable, conscientious, reliable, steadfast
+[allcase]extremely risky
+[explain]perilous, hazardous, treacherous, precarious
+[allcase]extremely roomy
+[explain]spacious, expansive, vast, palatial, commodious
+[allcase]extremely rough
+[explain]coarse, jagged, rugged, craggy, gritty, broken
+[allcase]extremely rowdy
+[explain]boisterous, disorderly, raucous, unruly, wild
+[allcase]extremely rude
+[explain]vulgar, insolent, offensive, derogatory, boorish
+[allcase]extremely sad
+[explain]desolate, disconsolate, wretched, dejected
+[allcase]extremely safe
+[explain]harmless, benign, secure, protected, sheltered
+[allcase]extremely similar
+[explain]identical, matching, indistinguishable, exact
+[allcase]extremely sassy
+[explain]impertinent, cheeky, insolent, disrespectful
+[allcase]extremely scared
+[explain]terrified, petrified, terror-stricken, panicked
+[allcase]extremely serious
+[explain]solemn, somber, stern, dour, melancholy, grim
+[allcase]extremely severe
+[explain]acute, grave, critical, serious, brutal, relentless
+[allcase]extremely sexy
+[explain]seductive, steamy, provocative, erotic, sensual
+[allcase]extremely shaky
+[explain]tremulous, quaking, vibrating, unsteady
+[allcase]extremely short
+[explain]stubby, squat, dwarf, diminutive, petite
+[allcase]extremely shy
+[explain]timid, backward, introverted, withdrawn
+[allcase]extremely significant
+[explain]key, noteworthy, momentous, major, vital
+[allcase]extremely silky
+[explain]sleek, smooth, satiny, glossy, lustrous, shiny
+[allcase]extremely similar
+[explain]alike, akin, analogous, comparable, equivalent
+[allcase]extremely simple
+[explain]easy, straightforward, effortless, uncomplicated
+[allcase]extremely slow
+[explain]sluggish, sedate, plodding, creeping, snail-like
+[allcase]extremely small
+[explain]tiny, miniscule, infinitesimal, microscopic, wee
+[allcase]extremely smooth
+[explain]flat, glassy, polished, level, even, unblemished
+[allcase]extremely soft
+[explain]malleable, yielding, spongy, muted, doughy
+[allcase]extremely sorry
+[explain]remorseful, repentant, penitent, contrite
+[allcase]extremely sour
+[explain]acerbic, tart, vinegary, biting, harsh, caustic
+[allcase]extremely specific
+[explain]precise, exact, explicit, definite, unambiguous
+[allcase]extremely stinky
+[explain]putrid, fetid, rank, rancid, putrescent, noxious
+[allcase]extremely strange
+[explain]weird, eerie, bizarre, uncanny, peculiar, odd
+[allcase]extremely strict
+[explain]stern, austere, severe, rigorous, harsh, rigid
+[allcase]extremely strong
+[explain]muscular, brawny, rugged, powerful, tough
+[allcase]extremely stupid
+[explain]idiotic, dense, vacuous, ridiculous, inane
+[allcase]extremely substantial
+[explain]considerable, significant, extensive, ample
+[allcase]extremely successful
+[explain]lucrative, productive, thriving, prosperous
+[allcase]extremely sudden
+[explain]unexpected, abrupt, precipitous, unforeseen
+[allcase]extremely suitable
+[explain]appropriate, fitting, seemly, proper, correct
+[allcase]extremely sure
+[explain]positive, persuaded, certain, convinced, absolute
+[allcase]extremely suspicious
+[explain]skeptical, distrustful, wary, guarded, leery
+[allcase]extremely sweet
+[explain]syrupy, sugary, honeyed, cloying, candied
+[allcase]extremely tactile
+[explain]touchable, palpable, physical, perceptible
+[allcase]extremely tall
+[explain]towering, lofty, multistory, soaring, statuesque
+[allcase]extremely tame
+[explain]docile, submissive, meek, compliant, subdued
+[allcase]extremely tasty
+[explain]delectable, mouthwatering, scrumptious, divine
+[allcase]extremely tempting
+[explain]irresistible, enticing, tantalizing, alluring
+[allcase]extremely tense
+[explain]overwrought, rigid, taut, strained, agitated
+[allcase]extremely terrible
+[explain]dreadful, horrendous, horrific, shocking
+[allcase]extremely thin 
+[explain]gaunt, scrawny, emaciated, haggard, skeletal
+[allcase]extremely tired
+[explain]exhausted, spent, frazzled, bushed, drained
+[allcase]extremely traditional
+[explain]conventional, established, customary, habitual
+[allcase]extremely treacherous
+[explain]traitorous, disloyal, unfaithful, perfidious
+[allcase]extremely ugly
+[explain]hideous, revolting, repugnant, grotesque
+[allcase]extremely unfair
+[explain]unjust, bigoted, prejudiced, inequitable
+[allcase]extremely unlikely
+[explain]improbable, implausible, doubtful, dubious
+[allcase]extremely unusual
+[explain]abnormal, extraordinary, uncommon, unique
+[allcase]extremely useful
+[explain]expedient, effective, nifty, handy, valuable
+[allcase]extremely valuable
+[explain]precious, priceless, treasured, inestimable
+[allcase]extremely violent
+[explain]abusive, savage, barbarous, cutthroat, cruel
+[allcase]extremely visible
+[explain]conspicuous, exposed, obvious, prominent
+[allcase]extremely warm
+[explain]stifling, hot, sultry, sweltering, oppressive
+[allcase]extremely wary
+[explain]skeptical, suspicious, leery, vigilant, distrustful
+[allcase]extremely weak
+[explain]feeble, frail, delicate, debilitated, fragile, sickly
+[allcase]extremely well
+[explain]superb, fine, fabulous, all right, okay, good
+[allcase]extremely wet
+[explain]saturated, soaked, waterlogged, sopping
+[allcase]extremely wicked
+[explain]evil, sinful, villainous, nefarious, fiendish
+[allcase]extremely wide
+[explain]vast, expansive, sweeping, boundless, distended
+[allcase]extremely widespread
+[explain]extensive, pervasive, prevalent, rampant
+[allcase]extremely wild
+[explain]untamed, feral, unmanageable, uncontrollable
+[allcase]extremely windy
+[explain]roaring, blustery, turbulent, howling, wild
+[allcase]extremely wise
+[explain]sagacious, sage, astute, enlightened, shrewd
+[allcase]extremely worried
+[explain]distressed, distraught, overwrought, upset
+[allcase]extremely young
+[explain]undeveloped, fledgling, immature, budding
+[allcase]extremely zealous
+[explain]driven, ambitious, motivated, passionate
+
+
+[comment]Many false positives - only use this source if you’re a perfectionist and don’t mind many false positives
+[abc] which 
+[explain] which sometimes needs a comma before it. The exception where you don’t need a comma are phrases ‘of which’, ‘in which’ or ‘on which’. Also direct and indirect questions: an indirect question (I asked Sam which bus I should take.). Also when you cannot take the which clause out without changing the meaning of the sentence would be unaltered — the essential clause (the kind that defines something and doesn’t just add some trivia information) does not have any comma before nor after it.
+[abc], that 
+[explain] that usually doesn’t have comma.
+[allcase]thought you
+[allcase]thought him
+[allcase]thought her
+[allcase]thought me
+[explain]taught
+[allcase]which
+[explain]Use ‘that’ if there are more than one and you need to identify the one you’re referring to.
+[allcase]that
+[explain]Use ‘, which’ if there’s just one but you want to add some miscellaneous information.
+
+[comment]Way too many false positives - only use this source if you’re a sick perfectionist and don’t mind going through 100+ false positives to find one mistake.
+[allcase]"
+[explain]Some prefer “”
+, and
+[explain]If you’re listing things and don’t want to use Oxford comma, remove the comma before ‘and’
+[abc] and
+[explain]If you’re listing things and want to use Oxford comma, place a comma before ‘and’
+.  
+[explain]There is a case for two spaces after a period [] https://www.theatlantic.com/science/archive/2018/05/two-spaces-after-a-period/559304/ [] but nowadays people usually just put one space after a period.
