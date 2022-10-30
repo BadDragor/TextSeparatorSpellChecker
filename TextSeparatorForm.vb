@@ -7,16 +7,14 @@
     Dim strTekst As String
     Dim objLine As Object
     Dim objGrammarLine As Object
-    Dim strProgramPath As String = Application.StartupPath   'ExecutablePath
     Dim strRootProgramPath As String = ""
 
-    Private objTemp0, objTemp1, objTemp2, objTemp3, objTemp4, objTemp5, objTemp6, objTemp7, objTemp8, objTemp9 As Object
+    Private objTemp0, objTemp9 As Object
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles Me.Load
         '#If DEBUG Then
         '        txtContentPath.Text = "C:\Temp\content.txt"
         '        txtGrammarPath.Text = "C:\Temp\grammar.txt"
-
         '#End If
 
         CheckForTheNewestVersionOfTheProgramToolStripMenuItem.Text = CheckForTheNewestVersionOfTheProgramToolStripMenuItem.Text & " (current " & VersionToolStripMenuItem.Text.ToLower & ")"
