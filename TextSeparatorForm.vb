@@ -64,13 +64,18 @@
 
         objLine = ""
 
+        Dim intLinesCount As Integer = 0
         Do
             objLine = objReader.ReadLine()
 
             If objLine IsNot Nothing Then
                 strTekst &= objLine & vbCrLf
+                intLinesCount += 1
             End If
         Loop Until objLine Is Nothing
+
+        AllText.Text = strTekst
+        Lines.Text = intLinesCount
 
         objReader.Close()
 
@@ -231,6 +236,8 @@
 
         Dim objReader As New System.IO.StreamReader(txtContentPath.Text, System.Text.Encoding.GetEncoding("windows-1250"), True)
 
+        Dim intLinesCount As Integer = 0
+        Dim strAllText As String = ""
         Do
             Try
                 objLine = objReader.ReadLine()
@@ -241,10 +248,16 @@
 
             If objLine IsNot Nothing Then
                 lstContentFile.Add(objLine)
+                strAllText &= objLine & vbCrLf
+                intLinesCount += 1
             End If
         Loop Until objLine Is Nothing
 
         objReader.Close()
+
+        AllText.Text = strAllText
+        Lines.Text = intLinesCount
+
 
         Dim j As Integer = 0
 
