@@ -435,6 +435,7 @@
 
     Private Sub AboutTheAuthorOfThisProgramToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles AboutTheAuthorOfThisProgramToolStripMenuItem.Click
         System.Diagnostics.Process.Start("https://www.fimfiction.net/user/127717/Bad+Dragon")
+        System.Diagnostics.Process.Start("https://www.fimfiction.net/user/127717/SweetAI+Belle")
     End Sub
 
     Private Sub CheckForTheNewestVersionOfTheProgramToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles CheckForTheNewestVersionOfTheProgramToolStripMenuItem.Click

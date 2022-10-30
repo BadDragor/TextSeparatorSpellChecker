@@ -21,3 +21,15 @@ E:\Development\Projects\TextSeparatorSpellChecker\bin\Debug\TextSeparator.exe.co
 E:\Development\Projects\TextSeparatorSpellChecker\bin\Debug\TextSeparator.exe
 E:\Development\Projects\TextSeparatorSpellChecker\bin\Debug\TextSeparator.pdb
 E:\Development\Projects\TextSeparatorSpellChecker\bin\Debug\TextSeparator.xml
+C:\Arh\Project\TextSeparatorSpellChecker\bin\Debug\TextSeparator.exe.config
+C:\Arh\Project\TextSeparatorSpellChecker\bin\Debug\TextSeparator.exe
+C:\Arh\Project\TextSeparatorSpellChecker\bin\Debug\TextSeparator.pdb
+C:\Arh\Project\TextSeparatorSpellChecker\bin\Debug\TextSeparator.xml
+C:\Arh\Project\TextSeparatorSpellChecker\obj\Debug\TextSeparator.vbproj.AssemblyReference.cache
+C:\Arh\Project\TextSeparatorSpellChecker\obj\Debug\TextSeparator.TextSeparatorForm.resources
+C:\Arh\Project\TextSeparatorSpellChecker\obj\Debug\TextSeparator.Resources.resources
+C:\Arh\Project\TextSeparatorSpellChecker\obj\Debug\TextSeparator.vbproj.GenerateResource.cache
+C:\Arh\Project\TextSeparatorSpellChecker\obj\Debug\TextSeparator.vbproj.CoreCompileInputs.cache
+C:\Arh\Project\TextSeparatorSpellChecker\obj\Debug\TextSeparator.exe
+C:\Arh\Project\TextSeparatorSpellChecker\obj\Debug\TextSeparator.xml
+C:\Arh\Project\TextSeparatorSpellChecker\obj\Debug\TextSeparator.pdb
