@@ -8,3 +8,16 @@ C:\Arh\Proj\TextSeparator\TextSeparator\obj\Release\TextSeparator.exe
 C:\Arh\Proj\TextSeparator\TextSeparator\obj\Release\TextSeparator.xml
 C:\Arh\Proj\TextSeparator\TextSeparator\obj\Release\TextSeparator.pdb
 C:\Arh\Proj\TextSeparator\TextSeparator\obj\Release\TextSeparator.TextSeparatorForm.resources
+E:\Development\Projects\TextSeparatorSpellChecker\bin\Release\TextSeparator.exe.config
+E:\Development\Projects\TextSeparatorSpellChecker\bin\Release\TextSeparator.exe
+E:\Development\Projects\TextSeparatorSpellChecker\bin\Release\TextSeparator.pdb
+E:\Development\Projects\TextSeparatorSpellChecker\bin\Release\TextSeparator.xml
+E:\Development\Projects\TextSeparatorSpellChecker\obj\Release\TextSeparator.vbproj.AssemblyReference.cache
+E:\Development\Projects\TextSeparatorSpellChecker\obj\Release\TextSeparator.vbproj.SuggestedBindingRedirects.cache
+E:\Development\Projects\TextSeparatorSpellChecker\obj\Release\TextSeparator.TextSeparatorForm.resources
+E:\Development\Projects\TextSeparatorSpellChecker\obj\Release\TextSeparator.Resources.resources
+E:\Development\Projects\TextSeparatorSpellChecker\obj\Release\TextSeparator.vbproj.GenerateResource.cache
+E:\Development\Projects\TextSeparatorSpellChecker\obj\Release\TextSeparator.vbproj.CoreCompileInputs.cache
+E:\Development\Projects\TextSeparatorSpellChecker\obj\Release\TextSeparator.exe
+E:\Development\Projects\TextSeparatorSpellChecker\obj\Release\TextSeparator.xml
+E:\Development\Projects\TextSeparatorSpellChecker\obj\Release\TextSeparator.pdb
