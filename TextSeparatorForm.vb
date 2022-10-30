@@ -1,43 +1,30 @@
 ﻿Public Class TextSeparatorForm
-    Dim i As Integer = 0
     Dim intRows As Integer = 0
     Dim strRows As String = "00"
-    'Dim intTempTextLength As Integer
     Dim strTempText As String = ""
     Dim strTekst As String
     Dim objLine As Object
     Dim objGrammarLine As Object
-    Dim strProgramPath As String = Application.StartupPath   'ExecutablePath
     Dim strRootProgramPath As String = ""
-
-    Private objTemp0, objTemp1, objTemp2, objTemp3, objTemp4, objTemp5, objTemp6, objTemp7, objTemp8, objTemp9 As Object
-
-
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles Me.Load
         '#If DEBUG Then
         '        txtContentPath.Text = "C:\Temp\content.txt"
         '        txtGrammarPath.Text = "C:\Temp\grammar.txt"
-
         '#End If
-
 
         CheckForTheNewestVersionOfTheProgramToolStripMenuItem.Text = CheckForTheNewestVersionOfTheProgramToolStripMenuItem.Text & " (current " & VersionToolStripMenuItem.Text.ToLower & ")"
 
     End Sub
 
-
     Private Sub Form1_Shown(sender As Object, e As EventArgs) Handles Me.Shown
         strRootProgramPath = Application.StartupPath
-
-
-        'strRootProgramPath = System.IO.Path.GetPathRoot(strProgramPath)
 
         If System.IO.File.Exists(strRootProgramPath & "\" & "SavedData.txt") Then
             Dim objReader As New System.IO.StreamReader(strRootProgramPath & "\" & "SavedData.txt", System.Text.Encoding.GetEncoding("windows-1250"), True)
 
             objLine = ""
-            i = 0
+            Dim i As Integer = 0
             Do
                 objLine = objReader.ReadLine()
 
@@ -61,13 +48,7 @@
         End If
     End Sub
 
-
     Private Sub Form1_FormClosing(sender As Object, e As FormClosingEventArgs) Handles Me.FormClosing
-
-        'System.IO.File.Delete(strRootProgramPath & "\" & "SavedData.txt")
-
-        'System.Threading.Thread.Sleep(200)
-
         Dim objWriter As New System.IO.StreamWriter(strRootProgramPath & "\" & "SavedData.txt", False)
         'An unhandled exception of type 'System.UnauthorizedAccessException' occurred in mscorlib.dll  Additional information: Access to the path 'C:\SavedData.txt' is denied.
         objWriter.Write(txtContentPath.Text & vbCrLf & txtGrammarPath.Text)
@@ -75,10 +56,7 @@
 
     End Sub
 
-
-
     Private Sub bttSeparate_Click(sender As Object, e As EventArgs) Handles bttSeparate.Click
-
         dgvSeparated.Rows.Clear()
 
         strTekst = ""
@@ -91,31 +69,23 @@
 
             If objLine IsNot Nothing Then
                 strTekst &= objLine & vbCrLf
-
             End If
-
-
         Loop Until objLine Is Nothing
 
         objReader.Close()
 
+        Dim i As Integer = 0
 
-        objTemp0 = strTekst.ToString.Length
-        For i = 0 To objTemp0 - 1
-
+        For i = 0 To strTekst.ToString.Length - 1
             If strTempText.Length < txtNUMBER_OF_CHARACTERS.Text Then
                 strTempText &= strTekst.ToString.Substring(i, 1)
             Else
-
                 AddRow()
                 i = i - txtNUMBER_OF_REPEAT_CHARACTERS.Text
             End If
-
         Next
+
         AddRow()
-
-
-
     End Sub
 
     Private Sub AddRow()
@@ -136,39 +106,36 @@
     End Sub
 
     Private Sub dgvSeparated_CellEnter(sender As Object, e As DataGridViewCellEventArgs) Handles dgvSeparated.CellEnter
-
         Dim intLine As Integer = 0
         Dim intConsecutiveCommentLine As Integer = 0
 
         intLine = e.RowIndex
 
-        objTemp0 = dgvSeparated.Rows(e.RowIndex).Cells(e.ColumnIndex).Value
-        If objTemp0 IsNot Nothing Then
+        Dim currentCell As Object = dgvSeparated.Rows(e.RowIndex).Cells(e.ColumnIndex).Value
+        If currentCell IsNot Nothing Then
             Try
-                Clipboard.SetText(objTemp0)
+                Clipboard.SetText(currentCell)
                 'An unhandled exception of type 'System.ArgumentNullException' occurred in System.Windows.Forms.dll Additional information: Value cannot be null.
             Catch ex As Exception
-
             End Try
 
             dgvSeparated.Rows(e.RowIndex).Cells("ENTERED").Value = 1
         End If
 
         For intConsecutiveCommentLine = intLine To dgvSeparated.Rows.Count - 1
-            objTemp0 = dgvSeparated.Rows(intConsecutiveCommentLine).Cells("COLUMN_TEXT").Value
-            If objTemp0 Is Nothing OrElse objTemp0.GetType.Name = "DBNull" OrElse Trim(objTemp0) = "" Then
-                objTemp0 = dgvSeparated.Rows(intConsecutiveCommentLine).Cells("NUMBER").Value
-                If objTemp0 Is Nothing OrElse objTemp0.GetType.Name = "DBNull" Then
-                    objTemp0 = ""
+            currentCell = dgvSeparated.Rows(intConsecutiveCommentLine).Cells("COLUMN_TEXT").Value
+            If currentCell Is Nothing OrElse currentCell.GetType.Name = "DBNull" OrElse Trim(currentCell) = "" Then
+                currentCell = dgvSeparated.Rows(intConsecutiveCommentLine).Cells("NUMBER").Value
+                If currentCell Is Nothing OrElse currentCell.GetType.Name = "DBNull" Then
+                    currentCell = ""
                 Else
-                    objTemp0 = objTemp0.ToString.Replace("[]", vbCrLf)
+                    currentCell = currentCell.ToString.Replace("[]", vbCrLf)
                 End If
 
-                txtCommentCopy.Text = objTemp0
+                txtCommentCopy.Text = currentCell
                 Exit For
             End If
         Next
-
     End Sub
 
     Private Sub bttOpen_Click(sender As Object, e As EventArgs) Handles bttOpenStory.Click
@@ -186,17 +153,14 @@
         End Try
     End Sub
 
-
-
-
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         Try
             Dim cls As New Class1
 
             If Not System.IO.File.Exists(txtContentPath.Text) Then
-                objTemp0 = System.IO.Path.GetDirectoryName(txtContentPath.Text)
-                If Not System.IO.Directory.Exists(objTemp0) Then
-                    System.IO.Directory.CreateDirectory(objTemp0)
+                Dim currentPath As String = System.IO.Path.GetDirectoryName(txtContentPath.Text)
+                If Not System.IO.Directory.Exists(currentPath) Then
+                    System.IO.Directory.CreateDirectory(currentPath)
                 End If
                 Dim objWriter As New System.IO.StreamWriter(txtContentPath.Text, False)
 
@@ -205,9 +169,9 @@
             End If
 
             If Not System.IO.File.Exists(txtGrammarPath.Text) Then
-                objTemp0 = System.IO.Path.GetDirectoryName(txtGrammarPath.Text)
-                If Not System.IO.Directory.Exists(objTemp0) Then
-                    System.IO.Directory.CreateDirectory(objTemp0)
+                Dim currentPath As String = System.IO.Path.GetDirectoryName(txtGrammarPath.Text)
+                If Not System.IO.Directory.Exists(currentPath) Then
+                    System.IO.Directory.CreateDirectory(currentPath)
                 End If
                 Dim objWriter As New System.IO.StreamWriter(txtGrammarPath.Text, False)
 
@@ -219,27 +183,17 @@
             End If
         Catch ex As Exception
 #If DEBUG Then
-            objTemp9 = ex.Message
+            Dim objTemp9 As String = ex.Message
             MsgBox(objTemp9)
 #End If
         End Try
-
-
-
-
-
-
-
 
         dgvSeparated.Rows.Clear()
 
         strTekst = ""
 
-
-        Dim blnSkip As Boolean = False
         Dim strAllCharacters As String = "abcčdefgijklmnoprsštuvzžyxqABCČDEFGIJKLMNOPRSŠTUVZŽYXQ"
         Dim strCharacter As String = ""
-        Dim i As Integer = 0
 
         Dim intContentCounter As Integer = 0
         Dim intGrammarCounter As Integer = 0
@@ -248,8 +202,6 @@
 
         Dim lstGrammarFile As New System.Collections.ArrayList
         Dim lstContentFile As New System.Collections.ArrayList
-        Dim j As Integer = 0
-        Dim k As Integer = 0
 
         Dim objReader2 As New System.IO.StreamReader(txtGrammarPath.Text, System.Text.Encoding.GetEncoding("windows-1250"), True)
         Dim blnGrammarTagWasUsed As Boolean = False
@@ -263,7 +215,6 @@
         End Try
 
         Do
-            'intGrammarCounter += 1
             Try
                 objGrammarLine = objReader2.ReadLine()
                 'An unhandled exception of type 'System.ObjectDisposedException' occurred in mscorlib.dll Additional information: Cannot read from a closed TextReader.
@@ -272,16 +223,15 @@
             End Try
 
             If objGrammarLine IsNot Nothing Then
-                'objGrammarLine = objLine
                 lstGrammarFile.Add(objGrammarLine)
             End If
         Loop Until objGrammarLine Is Nothing
+
         objReader2.Close()
 
-        'intContentCounter += 1
         Dim objReader As New System.IO.StreamReader(txtContentPath.Text, System.Text.Encoding.GetEncoding("windows-1250"), True)
+
         Do
-            'intContentCounter += 1
             Try
                 objLine = objReader.ReadLine()
                 'An unhandled exception of type 'System.ObjectDisposedException' occurred in mscorlib.dll Additional information: Cannot read from a closed TextReader.
@@ -290,26 +240,21 @@
             End Try
 
             If objLine IsNot Nothing Then
-                'objGrammarLine = objLine
                 lstContentFile.Add(objLine)
             End If
         Loop Until objLine Is Nothing
+
         objReader.Close()
 
-        'Do
+        Dim j As Integer = 0
 
-        'Try
-        '    objGrammarLine = objReader2.ReadLine()
-        '    'An unhandled exception of type 'System.ObjectDisposedException' occurred in mscorlib.dll Additional information: Cannot read from a closed TextReader.   'Solution: Open it for every line of content.
-        'Catch ex As Exception
-        '    MsgBox(ex.Message & vbCrLf & "intContentCounter = " & intContentCounter & vbCrLf & "intGrammarCounter = " & intGrammarCounter)
-        'End Try
         For j = 0 To lstGrammarFile.Count - 1
-
             blnGrammarTagWasUsed = False
             objGrammarLine = lstGrammarFile(j)
-
             intGrammarCounter += 1
+
+            Dim k As Integer = 0
+
             For k = 0 To lstContentFile.Count - 1
                 intContentCounter += 1
                 'Do
@@ -320,84 +265,65 @@
                     MsgBox(ex.Message & vbCrLf & "intContentCounter = " & intContentCounter & vbCrLf & "intGrammarCounter = " & intGrammarCounter)
                 End Try
 
-
                 If objLine IsNot Nothing Then
-                    'objGrammarLine = objLine
                     strTekst = objLine
 
-                    blnSkip = False
                     If objGrammarLine Is Nothing Then Continue For
 
-                    If Not blnSkip AndAlso objGrammarLine.ToString.Contains("[ignore]") Then
+                    If objGrammarLine.ToString.Contains("[ignore]") Then
                         If blnRowsAdded Then
-                            'AddGrammarRow("", objGrammarLine.ToString.Replace("[ignore]", ""))
                             blnRowsAdded = False
                         End If
-                        'blnSkip = True
                         Exit For
                     End If
 
-                    If Not blnSkip AndAlso objGrammarLine.ToString.Contains("[explain]") Then
+                    If objGrammarLine.ToString.Contains("[explain]") Then
                         If blnRowsAdded Then
                             AddGrammarRow("", objGrammarLine.ToString.Replace("[explain]", ""))
                             blnRowsAdded = False
                         End If
-                        'blnSkip = True
                         Exit For
                     End If
 
-                    If Not blnSkip AndAlso objGrammarLine.ToString.Contains("[comment]") Then
+                    If objGrammarLine.ToString.Contains("[comment]") Then
                         AddGrammarRow("", objGrammarLine.ToString.Replace("[comment]", ""))
-                        'blnSkip = True
                         Exit For
                     End If
 
-                    If Not blnSkip AndAlso objGrammarLine.ToString.Contains("[abc]") Then
+                    If objGrammarLine.ToString.Contains("[abc]") Then
+                        Dim i As Integer = 0
+
                         For i = 0 To strAllCharacters.Length - 1
                             strCharacter = strAllCharacters.Substring(i, 1)
-                            If Not blnSkip AndAlso objLine.ToString.Contains(objGrammarLine.ToString.Replace("[abc]", strCharacter)) Then
+                            If objLine.ToString.Contains(objGrammarLine.ToString.Replace("[abc]", strCharacter)) Then
                                 AddGrammarRow(objLine, objGrammarLine.Replace("[abc]", strCharacter))
                                 blnRowsAdded = True
-                                'blnSkip = True
-                                'Exit For
                             End If
                         Next
                     End If
 
-                    If Not blnSkip AndAlso objGrammarLine.ToString.Contains("[allcase]") Then
-                        If Not blnSkip AndAlso objLine.ToString.ToLower.Contains(objGrammarLine.ToString.ToLower.Replace("[allcase]", "")) Then
+                    If objGrammarLine.ToString.Contains("[allcase]") Then
+                        If objLine.ToString.ToLower.Contains(objGrammarLine.ToString.ToLower.Replace("[allcase]", "")) Then
                             AddGrammarRow(objLine, objGrammarLine.ToString.Replace("[allcase]", ""))
                             blnRowsAdded = True
                         End If
-                        'blnSkip = True
                     End If
 
-                    If Not blnSkip AndAlso objGrammarLine.ToString <> "" AndAlso objGrammarLine.ToString <> " " AndAlso objLine.ToString.Contains(objGrammarLine) Then
+                    If objGrammarLine.ToString <> "" AndAlso objGrammarLine.ToString <> " " AndAlso objLine.ToString.Contains(objGrammarLine) Then
                         AddGrammarRow(objLine, objGrammarLine)
                         blnRowsAdded = True
                     End If
-
                 End If
 
             Next 'Loop Until objLine Is Nothing
         Next
 
         objReader.Close()
-        'System.Threading.Thread.Sleep(200) 'Waits for file to close.
-
-        'Loop Until objGrammarLine Is Nothing
-
-        'objReader2.Close()
-
-
     End Sub
 
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles bttOpenGrammar.Click
         joined_bttOpen_Click(txtGrammarPath.Text)
-
     End Sub
-
-
 
     Private Sub txtContentPath_MouseDoubleClick(sender As Object, e As MouseEventArgs) Handles txtContentPath.MouseDoubleClick
         Dim OpenFileDialog As New OpenFileDialog
@@ -454,9 +380,8 @@
 
     End Sub
 
-
     Private Sub ReportABugImprovementToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles ReportABugImprovementToolStripMenuItem.Click
         System.Diagnostics.Process.Start("https://github.com/BadDragor/TextSeparatorSpellChecker/issues")
-
     End Sub
+
 End Class
