@@ -1,14 +1,11 @@
 ﻿Public Class TextSeparatorForm
     Dim intRows As Integer = 0
     Dim strRows As String = "00"
-    'Dim intTempTextLength As Integer
     Dim strTempText As String = ""
     Dim strTekst As String
     Dim objLine As Object
     Dim objGrammarLine As Object
     Dim strRootProgramPath As String = ""
-
-    Private objTemp0, objTemp9 As Object
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles Me.Load
         '#If DEBUG Then
@@ -77,11 +74,9 @@
 
         objReader.Close()
 
-        objTemp0 = strTekst.ToString.Length
-
         Dim i As Integer = 0
 
-        For i = 0 To objTemp0 - 1
+        For i = 0 To strTekst.ToString.Length - 1
             If strTempText.Length < txtNUMBER_OF_CHARACTERS.Text Then
                 strTempText &= strTekst.ToString.Substring(i, 1)
             Else
@@ -116,10 +111,10 @@
 
         intLine = e.RowIndex
 
-        objTemp0 = dgvSeparated.Rows(e.RowIndex).Cells(e.ColumnIndex).Value
-        If objTemp0 IsNot Nothing Then
+        Dim currentCell As Object = dgvSeparated.Rows(e.RowIndex).Cells(e.ColumnIndex).Value
+        If currentCell IsNot Nothing Then
             Try
-                Clipboard.SetText(objTemp0)
+                Clipboard.SetText(currentCell)
                 'An unhandled exception of type 'System.ArgumentNullException' occurred in System.Windows.Forms.dll Additional information: Value cannot be null.
             Catch ex As Exception
             End Try
@@ -128,16 +123,16 @@
         End If
 
         For intConsecutiveCommentLine = intLine To dgvSeparated.Rows.Count - 1
-            objTemp0 = dgvSeparated.Rows(intConsecutiveCommentLine).Cells("COLUMN_TEXT").Value
-            If objTemp0 Is Nothing OrElse objTemp0.GetType.Name = "DBNull" OrElse Trim(objTemp0) = "" Then
-                objTemp0 = dgvSeparated.Rows(intConsecutiveCommentLine).Cells("NUMBER").Value
-                If objTemp0 Is Nothing OrElse objTemp0.GetType.Name = "DBNull" Then
-                    objTemp0 = ""
+            currentCell = dgvSeparated.Rows(intConsecutiveCommentLine).Cells("COLUMN_TEXT").Value
+            If currentCell Is Nothing OrElse currentCell.GetType.Name = "DBNull" OrElse Trim(currentCell) = "" Then
+                currentCell = dgvSeparated.Rows(intConsecutiveCommentLine).Cells("NUMBER").Value
+                If currentCell Is Nothing OrElse currentCell.GetType.Name = "DBNull" Then
+                    currentCell = ""
                 Else
-                    objTemp0 = objTemp0.ToString.Replace("[]", vbCrLf)
+                    currentCell = currentCell.ToString.Replace("[]", vbCrLf)
                 End If
 
-                txtCommentCopy.Text = objTemp0
+                txtCommentCopy.Text = currentCell
                 Exit For
             End If
         Next
@@ -163,9 +158,9 @@
             Dim cls As New Class1
 
             If Not System.IO.File.Exists(txtContentPath.Text) Then
-                objTemp0 = System.IO.Path.GetDirectoryName(txtContentPath.Text)
-                If Not System.IO.Directory.Exists(objTemp0) Then
-                    System.IO.Directory.CreateDirectory(objTemp0)
+                Dim currentPath As String = System.IO.Path.GetDirectoryName(txtContentPath.Text)
+                If Not System.IO.Directory.Exists(currentPath) Then
+                    System.IO.Directory.CreateDirectory(currentPath)
                 End If
                 Dim objWriter As New System.IO.StreamWriter(txtContentPath.Text, False)
 
@@ -174,9 +169,9 @@
             End If
 
             If Not System.IO.File.Exists(txtGrammarPath.Text) Then
-                objTemp0 = System.IO.Path.GetDirectoryName(txtGrammarPath.Text)
-                If Not System.IO.Directory.Exists(objTemp0) Then
-                    System.IO.Directory.CreateDirectory(objTemp0)
+                Dim currentPath As String = System.IO.Path.GetDirectoryName(txtGrammarPath.Text)
+                If Not System.IO.Directory.Exists(currentPath) Then
+                    System.IO.Directory.CreateDirectory(currentPath)
                 End If
                 Dim objWriter As New System.IO.StreamWriter(txtGrammarPath.Text, False)
 
@@ -188,7 +183,7 @@
             End If
         Catch ex As Exception
 #If DEBUG Then
-            objTemp9 = ex.Message
+            Dim objTemp9 As String = ex.Message
             MsgBox(objTemp9)
 #End If
         End Try
@@ -220,7 +215,6 @@
         End Try
 
         Do
-            'intGrammarCounter += 1
             Try
                 objGrammarLine = objReader2.ReadLine()
                 'An unhandled exception of type 'System.ObjectDisposedException' occurred in mscorlib.dll Additional information: Cannot read from a closed TextReader.
@@ -229,18 +223,15 @@
             End Try
 
             If objGrammarLine IsNot Nothing Then
-                'objGrammarLine = objLine
                 lstGrammarFile.Add(objGrammarLine)
             End If
         Loop Until objGrammarLine Is Nothing
 
         objReader2.Close()
 
-        'intContentCounter += 1
         Dim objReader As New System.IO.StreamReader(txtContentPath.Text, System.Text.Encoding.GetEncoding("windows-1250"), True)
 
         Do
-            'intContentCounter += 1
             Try
                 objLine = objReader.ReadLine()
                 'An unhandled exception of type 'System.ObjectDisposedException' occurred in mscorlib.dll Additional information: Cannot read from a closed TextReader.
@@ -249,7 +240,6 @@
             End Try
 
             If objLine IsNot Nothing Then
-                'objGrammarLine = objLine
                 lstContentFile.Add(objLine)
             End If
         Loop Until objLine Is Nothing
@@ -301,7 +291,6 @@
                     End If
 
                     If objGrammarLine.ToString.Contains("[abc]") Then
-
                         Dim i As Integer = 0
 
                         For i = 0 To strAllCharacters.Length - 1
