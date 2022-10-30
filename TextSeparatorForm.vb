@@ -196,7 +196,6 @@
 
         strTekst = ""
 
-        Dim blnSkip As Boolean = False
         Dim strAllCharacters As String = "abcčdefgijklmnoprsštuvzžyxqABCČDEFGIJKLMNOPRSŠTUVZŽYXQ"
         Dim strCharacter As String = ""
         Dim i As Integer = 0
@@ -275,57 +274,48 @@
                 End Try
 
                 If objLine IsNot Nothing Then
-                    'objGrammarLine = objLine
                     strTekst = objLine
 
-                    blnSkip = False
                     If objGrammarLine Is Nothing Then Continue For
 
-                    If Not blnSkip AndAlso objGrammarLine.ToString.Contains("[ignore]") Then
+                    If objGrammarLine.ToString.Contains("[ignore]") Then
                         If blnRowsAdded Then
-                            'AddGrammarRow("", objGrammarLine.ToString.Replace("[ignore]", ""))
                             blnRowsAdded = False
                         End If
-                        'blnSkip = True
                         Exit For
                     End If
 
-                    If Not blnSkip AndAlso objGrammarLine.ToString.Contains("[explain]") Then
+                    If objGrammarLine.ToString.Contains("[explain]") Then
                         If blnRowsAdded Then
                             AddGrammarRow("", objGrammarLine.ToString.Replace("[explain]", ""))
                             blnRowsAdded = False
                         End If
-                        'blnSkip = True
                         Exit For
                     End If
 
-                    If Not blnSkip AndAlso objGrammarLine.ToString.Contains("[comment]") Then
+                    If objGrammarLine.ToString.Contains("[comment]") Then
                         AddGrammarRow("", objGrammarLine.ToString.Replace("[comment]", ""))
-                        'blnSkip = True
                         Exit For
                     End If
 
-                    If Not blnSkip AndAlso objGrammarLine.ToString.Contains("[abc]") Then
+                    If objGrammarLine.ToString.Contains("[abc]") Then
                         For i = 0 To strAllCharacters.Length - 1
                             strCharacter = strAllCharacters.Substring(i, 1)
-                            If Not blnSkip AndAlso objLine.ToString.Contains(objGrammarLine.ToString.Replace("[abc]", strCharacter)) Then
+                            If objLine.ToString.Contains(objGrammarLine.ToString.Replace("[abc]", strCharacter)) Then
                                 AddGrammarRow(objLine, objGrammarLine.Replace("[abc]", strCharacter))
                                 blnRowsAdded = True
-                                'blnSkip = True
-                                'Exit For
                             End If
                         Next
                     End If
 
-                    If Not blnSkip AndAlso objGrammarLine.ToString.Contains("[allcase]") Then
-                        If Not blnSkip AndAlso objLine.ToString.ToLower.Contains(objGrammarLine.ToString.ToLower.Replace("[allcase]", "")) Then
+                    If objGrammarLine.ToString.Contains("[allcase]") Then
+                        If objLine.ToString.ToLower.Contains(objGrammarLine.ToString.ToLower.Replace("[allcase]", "")) Then
                             AddGrammarRow(objLine, objGrammarLine.ToString.Replace("[allcase]", ""))
                             blnRowsAdded = True
                         End If
-                        'blnSkip = True
                     End If
 
-                    If Not blnSkip AndAlso objGrammarLine.ToString <> "" AndAlso objGrammarLine.ToString <> " " AndAlso objLine.ToString.Contains(objGrammarLine) Then
+                    If objGrammarLine.ToString <> "" AndAlso objGrammarLine.ToString <> " " AndAlso objLine.ToString.Contains(objGrammarLine) Then
                         AddGrammarRow(objLine, objGrammarLine)
                         blnRowsAdded = True
                     End If
