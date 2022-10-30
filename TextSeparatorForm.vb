@@ -1,5 +1,4 @@
 ﻿Public Class TextSeparatorForm
-    Dim i As Integer = 0
     Dim intRows As Integer = 0
     Dim strRows As String = "00"
     'Dim intTempTextLength As Integer
@@ -28,7 +27,7 @@
             Dim objReader As New System.IO.StreamReader(strRootProgramPath & "\" & "SavedData.txt", System.Text.Encoding.GetEncoding("windows-1250"), True)
 
             objLine = ""
-            i = 0
+            Dim i As Integer = 0
             Do
                 objLine = objReader.ReadLine()
 
@@ -79,6 +78,8 @@
         objReader.Close()
 
         objTemp0 = strTekst.ToString.Length
+
+        Dim i As Integer = 0
 
         For i = 0 To objTemp0 - 1
             If strTempText.Length < txtNUMBER_OF_CHARACTERS.Text Then
@@ -198,7 +199,6 @@
 
         Dim strAllCharacters As String = "abcčdefgijklmnoprsštuvzžyxqABCČDEFGIJKLMNOPRSŠTUVZŽYXQ"
         Dim strCharacter As String = ""
-        Dim i As Integer = 0
 
         Dim intContentCounter As Integer = 0
         Dim intGrammarCounter As Integer = 0
@@ -207,8 +207,6 @@
 
         Dim lstGrammarFile As New System.Collections.ArrayList
         Dim lstContentFile As New System.Collections.ArrayList
-        Dim j As Integer = 0
-        Dim k As Integer = 0
 
         Dim objReader2 As New System.IO.StreamReader(txtGrammarPath.Text, System.Text.Encoding.GetEncoding("windows-1250"), True)
         Dim blnGrammarTagWasUsed As Boolean = False
@@ -258,10 +256,14 @@
 
         objReader.Close()
 
+        Dim j As Integer = 0
+
         For j = 0 To lstGrammarFile.Count - 1
             blnGrammarTagWasUsed = False
             objGrammarLine = lstGrammarFile(j)
             intGrammarCounter += 1
+
+            Dim k As Integer = 0
 
             For k = 0 To lstContentFile.Count - 1
                 intContentCounter += 1
@@ -299,6 +301,9 @@
                     End If
 
                     If objGrammarLine.ToString.Contains("[abc]") Then
+
+                        Dim i As Integer = 0
+
                         For i = 0 To strAllCharacters.Length - 1
                             strCharacter = strAllCharacters.Substring(i, 1)
                             If objLine.ToString.Contains(objGrammarLine.ToString.Replace("[abc]", strCharacter)) Then
@@ -319,7 +324,6 @@
                         AddGrammarRow(objLine, objGrammarLine)
                         blnRowsAdded = True
                     End If
-
                 End If
 
             Next 'Loop Until objLine Is Nothing
@@ -389,7 +393,6 @@
 
     Private Sub ReportABugImprovementToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles ReportABugImprovementToolStripMenuItem.Click
         System.Diagnostics.Process.Start("https://github.com/BadDragor/TextSeparatorSpellChecker/issues")
-
     End Sub
 
 End Class
