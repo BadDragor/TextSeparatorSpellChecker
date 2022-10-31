@@ -37,9 +37,10 @@ Partial Class TextSeparatorForm
         Me.lblPretext = New System.Windows.Forms.Label()
         Me.bttOpenStory = New System.Windows.Forms.Button()
         Me.txtGrammarPath = New System.Windows.Forms.TextBox()
-        Me.Button1 = New System.Windows.Forms.Button()
+        Me.btnRunGrammarCheck = New System.Windows.Forms.Button()
         Me.bttOpenGrammar = New System.Windows.Forms.Button()
         Me.ToolTipForAllControls = New System.Windows.Forms.ToolTip(Me.components)
+        Me.Lines = New System.Windows.Forms.TextBox()
         Me.MenuStrip1 = New System.Windows.Forms.MenuStrip()
         Me.HelpToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.HowDoIUseThisProgrammanualToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
@@ -58,7 +59,6 @@ Partial Class TextSeparatorForm
         Me.TabMainText = New System.Windows.Forms.TabPage()
         Me.AllText = New System.Windows.Forms.RichTextBox()
         Me.TabMainStatistics = New System.Windows.Forms.TabPage()
-        Me.Lines = New System.Windows.Forms.TextBox()
         Me.Label1 = New System.Windows.Forms.Label()
         CType(Me.dgvSeparated, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.MenuStrip1.SuspendLayout()
@@ -191,16 +191,16 @@ Partial Class TextSeparatorForm
         Me.txtGrammarPath.Text = "C:\Grammar.txt"
         Me.ToolTipForAllControls.SetToolTip(Me.txtGrammarPath, "Double click to select the path or just write it in the field")
         '
-        'Button1
+        'btnRunGrammarCheck
         '
-        Me.Button1.BackColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer))
-        Me.Button1.FlatStyle = System.Windows.Forms.FlatStyle.Popup
-        Me.Button1.Location = New System.Drawing.Point(357, 3)
-        Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(114, 23)
-        Me.Button1.TabIndex = 71
-        Me.Button1.Text = "Run grammar check"
-        Me.Button1.UseVisualStyleBackColor = False
+        Me.btnRunGrammarCheck.BackColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer))
+        Me.btnRunGrammarCheck.FlatStyle = System.Windows.Forms.FlatStyle.Popup
+        Me.btnRunGrammarCheck.Location = New System.Drawing.Point(357, 3)
+        Me.btnRunGrammarCheck.Name = "btnRunGrammarCheck"
+        Me.btnRunGrammarCheck.Size = New System.Drawing.Size(114, 23)
+        Me.btnRunGrammarCheck.TabIndex = 71
+        Me.btnRunGrammarCheck.Text = "Run grammar check"
+        Me.btnRunGrammarCheck.UseVisualStyleBackColor = False
         '
         'bttOpenGrammar
         '
@@ -218,6 +218,16 @@ Partial Class TextSeparatorForm
         Me.ToolTipForAllControls.InitialDelay = 50
         Me.ToolTipForAllControls.ReshowDelay = 10
         Me.ToolTipForAllControls.ShowAlways = True
+        '
+        'Lines
+        '
+        Me.Lines.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.Lines.Location = New System.Drawing.Point(6, 16)
+        Me.Lines.Name = "Lines"
+        Me.Lines.Size = New System.Drawing.Size(44, 20)
+        Me.Lines.TabIndex = 67
+        Me.ToolTipForAllControls.SetToolTip(Me.Lines, "Double click to select the path or just write it in the field")
         '
         'MenuStrip1
         '
@@ -303,7 +313,7 @@ Partial Class TextSeparatorForm
         '
         Me.TabGrammar.Controls.Add(Me.txtGrammarPath)
         Me.TabGrammar.Controls.Add(Me.bttOpenGrammar)
-        Me.TabGrammar.Controls.Add(Me.Button1)
+        Me.TabGrammar.Controls.Add(Me.btnRunGrammarCheck)
         Me.TabGrammar.Location = New System.Drawing.Point(4, 22)
         Me.TabGrammar.Name = "TabGrammar"
         Me.TabGrammar.Padding = New System.Windows.Forms.Padding(3)
@@ -389,16 +399,6 @@ Partial Class TextSeparatorForm
         Me.TabMainStatistics.Text = "Statistics"
         Me.TabMainStatistics.UseVisualStyleBackColor = True
         '
-        'Lines
-        '
-        Me.Lines.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
-            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.Lines.Location = New System.Drawing.Point(6, 16)
-        Me.Lines.Name = "Lines"
-        Me.Lines.Size = New System.Drawing.Size(44, 20)
-        Me.Lines.TabIndex = 67
-        Me.ToolTipForAllControls.SetToolTip(Me.Lines, "Double click to select the path or just write it in the field")
-        '
         'Label1
         '
         Me.Label1.AutoSize = True
@@ -447,7 +447,7 @@ Partial Class TextSeparatorForm
     Friend WithEvents lblPretext As System.Windows.Forms.Label
     Friend WithEvents bttOpenStory As System.Windows.Forms.Button
     Friend WithEvents txtGrammarPath As System.Windows.Forms.TextBox
-    Friend WithEvents Button1 As System.Windows.Forms.Button
+    Friend WithEvents btnRunGrammarCheck As System.Windows.Forms.Button
     Friend WithEvents bttOpenGrammar As System.Windows.Forms.Button
     Friend WithEvents ToolTipForAllControls As System.Windows.Forms.ToolTip
     Friend WithEvents MenuStrip1 As System.Windows.Forms.MenuStrip
