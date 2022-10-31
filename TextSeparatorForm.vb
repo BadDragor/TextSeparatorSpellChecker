@@ -267,6 +267,8 @@ Public Class TextSeparatorForm
 
         Words.Text = Regex.Matches(strAllText, "\S+").Count
 
+        Sentences.Text = Regex.Matches(strAllText, ".").Count
+
         Letters.Text = strAllText.Count
 
         Dim blnRowsAdded As Boolean = False

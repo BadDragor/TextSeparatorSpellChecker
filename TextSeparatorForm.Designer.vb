@@ -41,7 +41,6 @@ Partial Class TextSeparatorForm
         Me.bttOpenGrammar = New System.Windows.Forms.Button()
         Me.ToolTipForAllControls = New System.Windows.Forms.ToolTip(Me.components)
         Me.Lines = New System.Windows.Forms.TextBox()
-        Me.Words = New System.Windows.Forms.TextBox()
         Me.Letters = New System.Windows.Forms.TextBox()
         Me.MenuStrip1 = New System.Windows.Forms.MenuStrip()
         Me.HelpToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
@@ -62,8 +61,11 @@ Partial Class TextSeparatorForm
         Me.AllText = New System.Windows.Forms.RichTextBox()
         Me.TabMainStatistics = New System.Windows.Forms.TabPage()
         Me.lblLetters = New System.Windows.Forms.Label()
-        Me.lblWords = New System.Windows.Forms.Label()
         Me.lblLines = New System.Windows.Forms.Label()
+        Me.Words = New System.Windows.Forms.TextBox()
+        Me.lblWords = New System.Windows.Forms.Label()
+        Me.lblSentences = New System.Windows.Forms.Label()
+        Me.Sentences = New System.Windows.Forms.TextBox()
         CType(Me.dgvSeparated, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.MenuStrip1.SuspendLayout()
         Me.TabSeparatorControl.SuspendLayout()
@@ -233,21 +235,11 @@ Partial Class TextSeparatorForm
         Me.Lines.TabIndex = 67
         Me.ToolTipForAllControls.SetToolTip(Me.Lines, "Double click to select the path or just write it in the field")
         '
-        'Words
-        '
-        Me.Words.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
-            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.Words.Location = New System.Drawing.Point(6, 58)
-        Me.Words.Name = "Words"
-        Me.Words.Size = New System.Drawing.Size(89, 20)
-        Me.Words.TabIndex = 69
-        Me.ToolTipForAllControls.SetToolTip(Me.Words, "Double click to select the path or just write it in the field")
-        '
         'Letters
         '
         Me.Letters.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.Letters.Location = New System.Drawing.Point(6, 101)
+        Me.Letters.Location = New System.Drawing.Point(6, 142)
         Me.Letters.Name = "Letters"
         Me.Letters.Size = New System.Drawing.Size(89, 20)
         Me.Letters.TabIndex = 71
@@ -413,6 +405,8 @@ Partial Class TextSeparatorForm
         '
         'TabMainStatistics
         '
+        Me.TabMainStatistics.Controls.Add(Me.lblSentences)
+        Me.TabMainStatistics.Controls.Add(Me.Sentences)
         Me.TabMainStatistics.Controls.Add(Me.lblLetters)
         Me.TabMainStatistics.Controls.Add(Me.Letters)
         Me.TabMainStatistics.Controls.Add(Me.lblWords)
@@ -430,20 +424,11 @@ Partial Class TextSeparatorForm
         'lblLetters
         '
         Me.lblLetters.AutoSize = True
-        Me.lblLetters.Location = New System.Drawing.Point(0, 85)
+        Me.lblLetters.Location = New System.Drawing.Point(0, 126)
         Me.lblLetters.Name = "lblLetters"
         Me.lblLetters.Size = New System.Drawing.Size(39, 13)
         Me.lblLetters.TabIndex = 72
         Me.lblLetters.Text = "Letters"
-        '
-        'lblWords
-        '
-        Me.lblWords.AutoSize = True
-        Me.lblWords.Location = New System.Drawing.Point(0, 42)
-        Me.lblWords.Name = "lblWords"
-        Me.lblWords.Size = New System.Drawing.Size(38, 13)
-        Me.lblWords.TabIndex = 70
-        Me.lblWords.Text = "Words"
         '
         'lblLines
         '
@@ -453,6 +438,44 @@ Partial Class TextSeparatorForm
         Me.lblLines.Size = New System.Drawing.Size(32, 13)
         Me.lblLines.TabIndex = 68
         Me.lblLines.Text = "Lines"
+        '
+        'Words
+        '
+        Me.Words.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.Words.Location = New System.Drawing.Point(6, 99)
+        Me.Words.Name = "Words"
+        Me.Words.Size = New System.Drawing.Size(89, 20)
+        Me.Words.TabIndex = 69
+        Me.ToolTipForAllControls.SetToolTip(Me.Words, "Double click to select the path or just write it in the field")
+        '
+        'lblWords
+        '
+        Me.lblWords.AutoSize = True
+        Me.lblWords.Location = New System.Drawing.Point(0, 83)
+        Me.lblWords.Name = "lblWords"
+        Me.lblWords.Size = New System.Drawing.Size(38, 13)
+        Me.lblWords.TabIndex = 70
+        Me.lblWords.Text = "Words"
+        '
+        'lblSentences
+        '
+        Me.lblSentences.AutoSize = True
+        Me.lblSentences.Location = New System.Drawing.Point(0, 41)
+        Me.lblSentences.Name = "lblSentences"
+        Me.lblSentences.Size = New System.Drawing.Size(58, 13)
+        Me.lblSentences.TabIndex = 74
+        Me.lblSentences.Text = "Sentences"
+        '
+        'Sentences
+        '
+        Me.Sentences.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.Sentences.Location = New System.Drawing.Point(6, 57)
+        Me.Sentences.Name = "Sentences"
+        Me.Sentences.Size = New System.Drawing.Size(89, 20)
+        Me.Sentences.TabIndex = 73
+        Me.ToolTipForAllControls.SetToolTip(Me.Sentences, "Double click to select the path or just write it in the field")
         '
         'TextSeparatorForm
         '
@@ -519,8 +542,10 @@ Partial Class TextSeparatorForm
     Friend WithEvents TabMainStatistics As TabPage
     Friend WithEvents lblLines As Label
     Friend WithEvents Lines As TextBox
-    Friend WithEvents lblWords As Label
-    Friend WithEvents Words As TextBox
     Friend WithEvents lblLetters As Label
     Friend WithEvents Letters As TextBox
+    Friend WithEvents lblSentences As Label
+    Friend WithEvents Sentences As TextBox
+    Friend WithEvents lblWords As Label
+    Friend WithEvents Words As TextBox
 End Class
