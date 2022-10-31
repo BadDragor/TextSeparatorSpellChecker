@@ -182,7 +182,7 @@
 
     Private Sub CreateFilesIfMissing()
         Try
-            Dim cls As New Class1
+            Dim cls As New WrongUseHandler
 
             If Not System.IO.File.Exists(txtContentPath.Text) Then
                 CreateFileAndPath(txtContentPath.Text, cls.RandomContent)

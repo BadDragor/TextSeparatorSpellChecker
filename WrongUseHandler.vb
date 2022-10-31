@@ -1,4 +1,4 @@
-﻿Public Class Class1
+﻿Public Class WrongUseHandler
 
     Public Function RandomContent() As String
         RandomContent = "Yes, spirits, I can hear your voices in my head!"" Xerath softly crackled. ""I've no time for useless wrath. Or will you show me a plentiful path?"" Spittle flew from the zebra's muzzle as she rhymed. Her frail body swayed to the next bush as she sighed at the bothersome conversation picking up in her mind. A short snort was followed by a long sigh. ""You promise to help me, but it's always a trap!" & vbCrLf & _
