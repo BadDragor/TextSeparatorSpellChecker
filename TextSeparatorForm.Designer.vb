@@ -286,7 +286,7 @@ Partial Class TextSeparatorForm
         Me.VersionToolStripMenuItem.Enabled = False
         Me.VersionToolStripMenuItem.Name = "VersionToolStripMenuItem"
         Me.VersionToolStripMenuItem.Size = New System.Drawing.Size(114, 20)
-        Me.VersionToolStripMenuItem.Text = "Version 2018.06.22"
+        Me.VersionToolStripMenuItem.Text = "Version 2022.10.31"
         '
         'txtCommentCopy
         '

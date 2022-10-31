@@ -47,8 +47,10 @@
 
             objReader.Close()
         Else
-            txtContentPath.Text = "C:\Temp\A_story_that_needs_editing.txt"
-            txtGrammarPath.Text = "C:\Temp\grammar.txt"
+            Dim strStartupFolder As String = ""
+            strStartupFolder = System.IO.Path.GetDirectoryName(Application.ExecutablePath)
+            txtContentPath.Text = strStartupFolder & "\A_story_that_needs_editing.txt"
+            txtGrammarPath.Text = strStartupFolder & "grammar.txt"
         End If
     End Sub
 
