@@ -158,30 +158,27 @@
         End Try
     End Sub
 
-    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+    Private Sub CreateFileAndPath(thePath As String, theContents As String)
+        Dim currentPath As String = System.IO.Path.GetDirectoryName(thePath)
+        If Not System.IO.Directory.Exists(currentPath) Then
+            System.IO.Directory.CreateDirectory(currentPath)
+        End If
+
+        Dim objWriter As New System.IO.StreamWriter(thePath, False)
+        objWriter.Write(theContents)
+        objWriter.Close()
+    End Sub
+
+    Private Sub LoadFiles()
         Try
             Dim cls As New Class1
 
             If Not System.IO.File.Exists(txtContentPath.Text) Then
-                Dim currentPath As String = System.IO.Path.GetDirectoryName(txtContentPath.Text)
-                If Not System.IO.Directory.Exists(currentPath) Then
-                    System.IO.Directory.CreateDirectory(currentPath)
-                End If
-                Dim objWriter As New System.IO.StreamWriter(txtContentPath.Text, False)
-
-                objWriter.Write(cls.RandomContent)
-                objWriter.Close()
+                CreateFileAndPath(txtContentPath.Text, cls.RandomContent)
             End If
 
             If Not System.IO.File.Exists(txtGrammarPath.Text) Then
-                Dim currentPath As String = System.IO.Path.GetDirectoryName(txtGrammarPath.Text)
-                If Not System.IO.Directory.Exists(currentPath) Then
-                    System.IO.Directory.CreateDirectory(currentPath)
-                End If
-                Dim objWriter As New System.IO.StreamWriter(txtGrammarPath.Text, False)
-
-                objWriter.Write(cls.RandomGrammarContent)
-                objWriter.Close()
+                CreateFileAndPath(txtGrammarPath.Text, cls.RandomGrammarContent)
 #If Not Debug Then
                 System.Diagnostics.Process.Start("https://docs.google.com/document/d/1hmi3FbLKJGY076vsUaHFSEAU-MYRjG4hJVX8vBq11I4/edit#")
 #End If
@@ -192,6 +189,11 @@
             MsgBox(objTemp9)
 #End If
         End Try
+    End Sub
+
+    Private Sub btnRunGrammarCheck_Click(sender As Object, e As EventArgs) Handles btnRunGrammarCheck.Click
+
+        LoadFiles()
 
         dgvSeparated.Rows.Clear()
 
@@ -209,7 +211,6 @@
         Dim lstContentFile As New System.Collections.ArrayList
 
         Dim objReader2 As New System.IO.StreamReader(txtGrammarPath.Text, System.Text.Encoding.GetEncoding("windows-1250"), True)
-        Dim blnGrammarTagWasUsed As Boolean = False
         Dim blnRowsAdded As Boolean = False
 
         Try
@@ -262,7 +263,6 @@
         Dim j As Integer = 0
 
         For j = 0 To lstGrammarFile.Count - 1
-            blnGrammarTagWasUsed = False
             objGrammarLine = lstGrammarFile(j)
             intGrammarCounter += 1
 
@@ -334,7 +334,7 @@
         objReader.Close()
     End Sub
 
-    Private Sub Button2_Click(sender As Object, e As EventArgs) Handles bttOpenGrammar.Click
+    Private Sub bttOpenGrammar_Click(sender As Object, e As EventArgs) Handles bttOpenGrammar.Click
         joined_bttOpen_Click(txtGrammarPath.Text)
     End Sub
 
@@ -347,10 +347,6 @@
         End If
     End Sub
 
-    Private Sub txtContentPath_TextChanged(sender As Object, e As EventArgs) Handles txtContentPath.TextChanged
-
-    End Sub
-
     Private Sub txtGrammarPath_MouseDoubleClick(sender As Object, e As MouseEventArgs) Handles txtGrammarPath.MouseDoubleClick
         Dim OpenFileDialog As New OpenFileDialog
         OpenFileDialog.Filter = "Text files (*.txt)|*.txt|All files (*.*)|*.*" '"|txt (*.txt)|*.txt"
@@ -358,14 +354,6 @@
         If (OpenFileDialog.ShowDialog(Me) = System.Windows.Forms.DialogResult.OK) Then
             txtContentPath.Text = OpenFileDialog.FileName
         End If
-    End Sub
-
-    Private Sub txtGrammarPath_TextChanged(sender As Object, e As EventArgs) Handles txtGrammarPath.TextChanged
-
-    End Sub
-
-    Private Sub Button3_Click(sender As Object, e As EventArgs)
-
     End Sub
 
     Private Sub HowDoIUseThisProgrammanualToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles HowDoIUseThisProgrammanualToolStripMenuItem.Click
