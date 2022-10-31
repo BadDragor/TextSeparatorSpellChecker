@@ -1,0 +1,352 @@
+[comment] Wrongly written words
+[allcase]snouth
+[explain]snout
+[allcase]an unicorn
+[explain]a unicorn
+[allcase]sease
+[explain]cease
+[allcase]payed
+[explain]paid
+[allcase]death silence
+[explain]dead silence
+[allcase]rose her voice
+[allcase]rose his voice
+[allcase]rose their voice
+[explain]raised
+[allcase]grimase
+[explain]grimace
+[allcase]Apandege
+[explain]appendage
+[allcase]igh!
+[explain]ugh!
+[allcase]grose
+[explain]gross
+[allcase]thich
+[explain]thick
+[allcase]cartuffle
+[explain]kerfuffle
+[allcase]Toosh
+[explain]tush
+[allcase]full on confrontation
+[explain]full on confrontation
+[allcase]blunt of the
+[explain]brunt of the
+[allcase]deffy
+[explain]defy
+[allcase]on regular basis
+[explain]on a regular basis
+[allcase]khm
+[explain]cough, err, erm, um, hmm, ahem, cleared their throat
+[allcase] uzz
+[explain] ooze
+[allcase]Endangeres
+[explain]endangers
+[allcase]preventative measures
+[explain]preventive measures
+[allcase]Violater
+[explain]violator
+[allcase]wide spread
+[explain]wide-spread
+[allcase]puppile
+[explain]pupil
+[allcase]in a bad time
+[explain]at a bad time
+[allcase]gem hunting
+[explain]gem-hunting
+[allcase]first hoof
+[explain]first-hoof
+[allcase]short haired
+[explain]short-haired
+[allcase] in my reach
+[explain] within my reach
+[allcase]call of the nature
+[explain]call of nature
+[allcase]old fashioned
+[explain]old-fashioned
+[allcase]Saddleback
+[explain]saddlebag
+[allcase]ear drum
+[explain] it should be eardrum
+[allcase]ear drum
+[explain] it should be eardrum
+[allcase]schoolteacher
+[explain] it should be school teacher
+[allcase]raised up
+[explain]up is not necessary
+[allcase]rose up
+[explain]up is not necessary
+[allcase]rise up
+[explain]up is not necessary
+[allcase]realise
+[explain]realize
+[allcase]princesshood
+[explain]princess-hood
+[allcase]squeeks
+[explain]squeaks
+[allcase]tieing
+[explain]tying
+[allcase]vaporised 
+[explain]vaporized
+[allcase]curles
+[explain]curls
+[allcase]refered 
+[explain]referred
+[allcase]auu
+[explain]aau
+[allcase]rutine
+[explain]routines
+[allcase]easyer
+[explain]easier
+[allcase]murmored
+[explain]murmured
+[allcase]dispair
+[explain]despair
+[allcase]agressor
+[explain]aggressor
+[allcase] controll
+[explain]control
+[allcase]their believes
+[explain]their beliefs
+[allcase]afirm 
+[explain]affirm
+[allcase]Challange
+[explain]challenge
+[allcase]consept 
+[explain]concept 
+[allcase]Bordom
+[explain]boredom
+[allcase]Presuposed
+[explain]presupposed
+[allcase]oposite 
+[explain]opposite 
+[allcase]immanent
+[explain]imminent
+[allcase]eminent
+[explain]imminent
+[allcase]ever darker
+[explain]ever-darker
+[allcase]grownup
+[explain]grown-up http://www.quickanddirtytips.com/education/grammar/when-does-grown-need-hyphen
+[allcase]burned in my brain
+[explain]burned into my brain
+[allcase]dog house
+[explain]doghouse
+[allcase]clumber
+[explain]clamber
+[allcase]bable
+[explain]babble
+[allcase]some of them
+[explain]a few of them
+[allcase]on all four.
+[explain]on all fours
+[allcase]hi-hi
+[allcase]he-he
+[explain]hee-hee [] giggle: tee hee hee
+[allcase]shock-wave
+[allcase]shockwave
+[explain]shock wave []https://books.google.com/ngrams/graph?content=shockwave%2Cshock-wave%2C+shock+wave&year_start=1900&year_end=2000&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Cshockwave%3B%2Cc0%3B.t1%3B%2Cshock%20-%20wave%3B%2Cc0%3B.t1%3B%2Cshock%20wave%3B%2Cc0
+[comment]Grammar issues
+
+, The 
+[explain] there should be lower-case after the comma
+[allcase]reshelve
+[explain] re-shelve is the correct word
+[abc] If
+[explain] it should be lower case, not upper case after a comma.
+, If
+[explain] it should be lower case, not upper case after a comma.
+[allcase]magical
+[explain] if it’s mystical use magical, else use magic
+[allcase]must had
+[allcase]will had
+[allcase]should had
+[explain] use have instead of had
+[allcase]an overkill
+[explain]remove an
+[allcase]the last year
+[explain]remove ‘the’
+[allcase]since morning
+[explain]since the morning
+[allcase]safe for the approach
+[explain]lose the
+
+Then 
+[explain] It should be Then, (with comma after) if it’s at the start of the sentence.
+
+[allcase], than 
+[explain]There usually isn’t a comma before than.
+
+[abc] despite
+[explain]There should probably be a comma before despite
+
+We, 
+I, 
+[explain] There probably shouldn’t be a comma there.
+
+
+
+disappointed at
+[explain] use in or with
+
+, since
+[explain] don’t use comma here
+
+Instead I 
+[explain]Instead, I
+
+[allcase]None of them were
+[explain]was - formal writing; were - speaking english
+[allcase]None of them was
+[explain]was - formal writing; were - speaking english
+[allcase]nonbreakable
+[explain]unbreakable
+[allcase]forcefield
+[explain]force field
+[allcase]eachother
+[explain]each other
+[allcase]of course
+[explain]off course
+[allcase]regular bases
+[explain]regular basis
+[allcase]jerkingly
+[explain]jerkily
+[allcase]Then, why were you
+[explain]Then why were you (no comma)
+[allcase]jurnal
+[explain]journal
+[comment] Easily mixed up words. Check if you used the correct one.
+[allcase]sat on my flank
+[explain]sat on my plot
+[allcase]reoccurring
+[explain] Repeated but not periodic
+[allcase]recurring
+[explain] Periodically repeats itself.
+[allcase]weary of
+[explain]wary = cautious; weary = tired
+
+[abc] despite
+[explain] There should probably be a comma before despite.
+
+[allcase]discrete
+[explain] discrete: Separate, distinct, or consisting of individual parts. Constituting a separate entity or part.  []discreet: Cautious, careful, not drawing attention. Marked by prudence or modesty and wise self-restraint.
+[allcase]discreet
+[explain] Cautious, careful, not drawing attention
+[allcase]the point of no return
+[explain]the point of no-return
+
+[comment]Britain spelling instead of American (default)
+[allcase]afterwards
+[explain]afterward <- American English
+[allcase]equalise
+[explain]equalize  <- American English
+[allcase]fulfil 
+[explain]fulfill <- American English
+[allcase]colour
+[explain]color
+[allcase]flavour
+[explain]flavor
+[allcase]humour
+[explain]humor
+[allcase]labour
+[explain]labor
+[allcase]neighbour
+[explain]neighbor
+[allcase]apologise
+[explain]Apologize
+[allcase]organise
+[explain]Organize
+[allcase]recognise
+[explain]Recognize
+[allcase]analyse
+[explain]analyze
+[allcase]breathalyse
+[explain]breathalyze
+[allcase]paralyse
+[explain]paralyze
+[allcase]travelled
+[explain]traveled
+[allcase]travelling
+[explain]traveling
+[allcase]traveller
+[explain]traveler
+[allcase]leukaemia
+[explain]leukemia
+[allcase]manoeuvre
+[explain]maneuver
+[allcase]oestrogen
+[explain]estrogen
+[allcase]paediatric
+[explain]pediatric
+[allcase]defence
+[explain]defense
+[allcase]licence
+[explain]license
+[allcase]offence
+[explain]offense
+[allcase]pretence
+[explain]pretense
+
+
+[comment]Check if correct
+[allcase]peaked
+[explain]peeked if verb
+As I
+[explain]When I, While I
+[allcase]looked up to 
+[explain]looked up at
+[allcase]looked back to
+[explain]looked back at
+[allcase]the school
+[explain]school  [] Only a limited number of nouns can go directly after at without an article. at school, at church, at play, at work, at lunch, ..., but not at hotel, at restaurant, at bank, for example. The choice between "at school/church" and "at the school/church" depends on why you are there. If you are "at school," it means you are there as a student or a teacher. If you are "at church," you are probably there for religious services. If you are at one of these places for reasons unrelated to their normal function -- for instance, if you are delivering a package or repairing the roof -- you would say "at the school" or "at the church."
+[allcase]with a gaping mouth
+[explain], mouth agape
+[allcase]raised her head
+[allcase]raised my head
+[allcase]raised his head
+[explain]lifted her/his/my head. It’s not wrong to use raised, though.
+[allcase]off of
+[explain]off
+[allcase]Approached me
+[explain]approached
+[allcase]Approaching me
+[explain]approaching
+[allcase]Approaches me
+[explain]approaches
+[allcase]Approach me
+[explain]approach
+[allcase]moved backward
+[explain]backed
+[allcase]dawned upon
+[explain]dawned on
+[allcase]lowered her head
+[explain]bowed her head
+[allcase]lowered my head
+[explain]bowed my head
+[allcase]lowered his head
+[explain]bowed his head
+[allcase]several moments
+[explain]some time
+[allcase]lifted up
+[explain]lift
+[allcase]dawned upon
+[explain]dawned on
+[allcase]Opened mouth
+[explain]open mouth
+[allcase]partially my fault
+[explain]partly my fault
+[allcase]bored of
+[explain]bored with
+[allcase] all of the 
+[explain]all the 
+[allcase]bored of
+[explain]bored with
+aren't I
+[explain]Am I not
+[allcase]different than
+[explain]Correct in dialogue (spoken language), but outside of dialogue it should be different from.
+[allcase]muscles tensed up.
+[explain]muscles tensed.
+[allcase]just as 
+[explain]just when
+[allcase] , then 
+[explain]’If, then’ statements require a comma before then. Usually, however, there isn’t a comma before then.
