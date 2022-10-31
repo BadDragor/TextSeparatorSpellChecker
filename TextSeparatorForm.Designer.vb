@@ -41,6 +41,8 @@ Partial Class TextSeparatorForm
         Me.bttOpenGrammar = New System.Windows.Forms.Button()
         Me.ToolTipForAllControls = New System.Windows.Forms.ToolTip(Me.components)
         Me.Lines = New System.Windows.Forms.TextBox()
+        Me.Words = New System.Windows.Forms.TextBox()
+        Me.Letters = New System.Windows.Forms.TextBox()
         Me.MenuStrip1 = New System.Windows.Forms.MenuStrip()
         Me.HelpToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.HowDoIUseThisProgrammanualToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
@@ -59,7 +61,9 @@ Partial Class TextSeparatorForm
         Me.TabMainText = New System.Windows.Forms.TabPage()
         Me.AllText = New System.Windows.Forms.RichTextBox()
         Me.TabMainStatistics = New System.Windows.Forms.TabPage()
-        Me.Label1 = New System.Windows.Forms.Label()
+        Me.lblLetters = New System.Windows.Forms.Label()
+        Me.lblWords = New System.Windows.Forms.Label()
+        Me.lblLines = New System.Windows.Forms.Label()
         CType(Me.dgvSeparated, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.MenuStrip1.SuspendLayout()
         Me.TabSeparatorControl.SuspendLayout()
@@ -225,9 +229,29 @@ Partial Class TextSeparatorForm
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.Lines.Location = New System.Drawing.Point(6, 16)
         Me.Lines.Name = "Lines"
-        Me.Lines.Size = New System.Drawing.Size(44, 20)
+        Me.Lines.Size = New System.Drawing.Size(89, 20)
         Me.Lines.TabIndex = 67
         Me.ToolTipForAllControls.SetToolTip(Me.Lines, "Double click to select the path or just write it in the field")
+        '
+        'Words
+        '
+        Me.Words.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.Words.Location = New System.Drawing.Point(6, 58)
+        Me.Words.Name = "Words"
+        Me.Words.Size = New System.Drawing.Size(89, 20)
+        Me.Words.TabIndex = 69
+        Me.ToolTipForAllControls.SetToolTip(Me.Words, "Double click to select the path or just write it in the field")
+        '
+        'Letters
+        '
+        Me.Letters.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.Letters.Location = New System.Drawing.Point(6, 101)
+        Me.Letters.Name = "Letters"
+        Me.Letters.Size = New System.Drawing.Size(89, 20)
+        Me.Letters.TabIndex = 71
+        Me.ToolTipForAllControls.SetToolTip(Me.Letters, "Double click to select the path or just write it in the field")
         '
         'MenuStrip1
         '
@@ -389,7 +413,11 @@ Partial Class TextSeparatorForm
         '
         'TabMainStatistics
         '
-        Me.TabMainStatistics.Controls.Add(Me.Label1)
+        Me.TabMainStatistics.Controls.Add(Me.lblLetters)
+        Me.TabMainStatistics.Controls.Add(Me.Letters)
+        Me.TabMainStatistics.Controls.Add(Me.lblWords)
+        Me.TabMainStatistics.Controls.Add(Me.Words)
+        Me.TabMainStatistics.Controls.Add(Me.lblLines)
         Me.TabMainStatistics.Controls.Add(Me.Lines)
         Me.TabMainStatistics.Location = New System.Drawing.Point(4, 22)
         Me.TabMainStatistics.Name = "TabMainStatistics"
@@ -399,14 +427,32 @@ Partial Class TextSeparatorForm
         Me.TabMainStatistics.Text = "Statistics"
         Me.TabMainStatistics.UseVisualStyleBackColor = True
         '
-        'Label1
+        'lblLetters
         '
-        Me.Label1.AutoSize = True
-        Me.Label1.Location = New System.Drawing.Point(0, 0)
-        Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(32, 13)
-        Me.Label1.TabIndex = 68
-        Me.Label1.Text = "Lines"
+        Me.lblLetters.AutoSize = True
+        Me.lblLetters.Location = New System.Drawing.Point(0, 85)
+        Me.lblLetters.Name = "lblLetters"
+        Me.lblLetters.Size = New System.Drawing.Size(39, 13)
+        Me.lblLetters.TabIndex = 72
+        Me.lblLetters.Text = "Letters"
+        '
+        'lblWords
+        '
+        Me.lblWords.AutoSize = True
+        Me.lblWords.Location = New System.Drawing.Point(0, 42)
+        Me.lblWords.Name = "lblWords"
+        Me.lblWords.Size = New System.Drawing.Size(38, 13)
+        Me.lblWords.TabIndex = 70
+        Me.lblWords.Text = "Words"
+        '
+        'lblLines
+        '
+        Me.lblLines.AutoSize = True
+        Me.lblLines.Location = New System.Drawing.Point(0, 0)
+        Me.lblLines.Name = "lblLines"
+        Me.lblLines.Size = New System.Drawing.Size(32, 13)
+        Me.lblLines.TabIndex = 68
+        Me.lblLines.Text = "Lines"
         '
         'TextSeparatorForm
         '
@@ -471,6 +517,10 @@ Partial Class TextSeparatorForm
     Friend WithEvents TabMainText As TabPage
     Friend WithEvents AllText As RichTextBox
     Friend WithEvents TabMainStatistics As TabPage
-    Friend WithEvents Label1 As Label
+    Friend WithEvents lblLines As Label
     Friend WithEvents Lines As TextBox
+    Friend WithEvents lblWords As Label
+    Friend WithEvents Words As TextBox
+    Friend WithEvents lblLetters As Label
+    Friend WithEvents Letters As TextBox
 End Class

@@ -1,4 +1,6 @@
-﻿Public Class TextSeparatorForm
+﻿Imports System.Text.RegularExpressions
+
+Public Class TextSeparatorForm
     Dim intRows As Integer = 0
     Dim strRows As String = "00"
     Dim strTempText As String = ""
@@ -87,8 +89,7 @@
             End If
         Loop Until curLine Is Nothing
 
-        AllText.Text = strTekst
-        Lines.Text = intLinesCount
+
 
         objReader.Close()
 
@@ -192,7 +193,7 @@
 
             If Not System.IO.File.Exists(txtGrammarPath.Text) Then
                 CreateFileAndPath(txtGrammarPath.Text, cls.RandomGrammarContent)
-#If Not Debug Then
+#If Not DEBUG Then
                 System.Diagnostics.Process.Start("https://docs.google.com/document/d/1hmi3FbLKJGY076vsUaHFSEAU-MYRjG4hJVX8vBq11I4/edit#")
 #End If
             End If
@@ -263,6 +264,10 @@
 
         AllText.Text = strAllText
         Lines.Text = intLinesCount
+
+        Words.Text = Regex.Matches(strAllText, "\S+").Count
+
+        Letters.Text = strAllText.Count
 
         Dim blnRowsAdded As Boolean = False
 
